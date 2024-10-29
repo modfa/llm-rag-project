@@ -1,0 +1,955 @@
+record,answer,evaluation,id,question,relevance,parsed_evaluation
+"{'id': 198, 'question': 'What kind of attractions can I typically find in or near Stone Town?'}","You can typically find cultural and historical attractions in or near Stone Town, such as the rich heritage, coastal beauty, and possibly even spice markets or other cultural tours.","{
+  ""Relevance"": ""RELEVANT"",
+  ""Explanation"": ""The generated answer provides specific information about the types of attractions that can be found in or near Stone Town, which directly answers the question about the kind of attractions available in the area.""
+}",198,What kind of attractions can I typically find in or near Stone Town?,RELEVANT,"{'Relevance': 'RELEVANT', 'Explanation': 'The generated answer provides specific information about the types of attractions that can be found in or near Stone Town, which directly answers the question about the kind of attractions available in the area.'}"
+"{'id': 137, 'question': 'What are some of the top attractions to visit in Tbilisi for historical and cultural significance?'}","Based on the context provided, some of the top attractions to visit in Tbilisi for historical and cultural significance include:
+
+1. Narikala Fortress - found in multiple entries as a popular attraction.
+2. Tbilisi Sulphur Baths - offering a unique experience as mentioned in multiple user reviews.
+3. Old Tbilisi/Old Town - charming and full of history, mentioned in one of the user reviews.
+
+These attractions showcase the historical and cultural significance of Tbilisi and provide insight into the city's ancient past.","{
+  ""Relevance"": ""RELEVANT"",
+  ""Explanation"": ""The generated answer directly addresses the question and provides a list of specific attractions in Tbilisi that are relevant to historical and cultural significance, matching the context of the question.""
+}",137,What are some of the top attractions to visit in Tbilisi for historical and cultural significance?,RELEVANT,"{'Relevance': 'RELEVANT', 'Explanation': 'The generated answer directly addresses the question and provides a list of specific attractions in Tbilisi that are relevant to historical and cultural significance, matching the context of the question.'}"
+"{'id': 184, 'question': 'What are the other official language spoken in Auckland besides English?'}","The other official language spoken in Auckland, besides English, is Māori.","{
+  ""Relevance"": ""RELEVANT"",
+  ""Explanation"": ""The generated answer provides the specific information being asked about (other official language spoken in Auckland besides English), and it accurately names the language, Māori, which is directly related to the question.""",184,What are the other official language spoken in Auckland besides English?,,
+"{'id': 44, 'question': 'What is the most recommended time to visit to make the most out of the trip to Naples?'}",The most recommended time to visit Naples and make the most out of the trip is from April to June or September to November.,"{
+  ""Relevance"": ""RELEVANT"",
+  ""Explanation"": ""The generated answer directly addresses the question of the most recommended time to visit Naples and make the most out of the trip, providing a specific time frame that is useful for travelers.""",44,What is the most recommended time to visit to make the most out of the trip to Naples?,,
+"{'id': 213, 'question': 'What are some must-visit places to see when I travel to Athens, Greece?'}","Athens, Greece is a city rich in history and culture. Some must-visit places to see when traveling to Athens include:
+
+1. The Acropolis: An iconic and stunning site, as described by many users.
+2. Acropolis Museum: A popular attraction that showcases ancient history and artifacts.
+3. Plaka district: A charming and historic area that can be explored on foot to discover hidden gems.
+4. Ancient Agora: A significant historical site that offers insight into Athens' rich past.
+
+These places offer a glimpse into Athens' vibrant culture and ancient history, making them must-visit destinations during your travel to Greece.","{
+  ""Relevance"": ""RELEVANT"",
+  ""Explanation"": ""The generated answer directly addresses the question by providing a list of must-visit places to see in Athens, Greece, which is the main topic of the question.""
+}",213,"What are some must-visit places to see when I travel to Athens, Greece?",RELEVANT,"{'Relevance': 'RELEVANT', 'Explanation': 'The generated answer directly addresses the question by providing a list of must-visit places to see in Athens, Greece, which is the main topic of the question.'}"
+"{'id': 213, 'question': 'What options do I have for getting around Athens, especially from one popular attraction to another?'}","Based on the context provided, you have several options for getting around Athens from one popular attraction to another. These include:
+
+1. Metro: This is a convenient and efficient way to travel around the city.
+2. Buses: Athens has a comprehensive bus network that covers most areas of the city.
+3. Walking: Athens is a walkable city, especially when it comes to its historic areas like the Plaka district, which is full of charming streets and hidden gems. You can explore these areas on foot, taking in the sights, sounds, and culinary delights that the city has to offer.
+
+By using one or a combination of these options, you can easily get around Athens and experience all that the city has to offer.","{
+  ""Relevance"": ""RELEVANT"",
+  ""Explanation"": ""The generated answer provides detailed information about options for getting around Athens, specifically from one popular attraction to another, matching the question's context and requirements.""
+}",213,"What options do I have for getting around Athens, especially from one popular attraction to another?",RELEVANT,"{'Relevance': 'RELEVANT', 'Explanation': ""The generated answer provides detailed information about options for getting around Athens, specifically from one popular attraction to another, matching the question's context and requirements.""}"
+"{'id': 41, 'question': 'What are the most ideal months to plan a trip to Casablanca?'}","The most ideal months to plan a trip to Casablanca are March to May, September to November. Although one review suggests March to June, the other two reviews recommend the same period, March to May and September to November, making this the most commonly cited and likely the most ideal time to visit Casablanca.","{
+""Relevance"": ""RELEVANT"",
+""Explanation"": ""The generated answer directly addresses the question about the most ideal months to plan a trip to Casablanca, providing specific months and supporting information from multiple reviews, making it highly relevant to the question.""",41,What are the most ideal months to plan a trip to Casablanca?,,
+"{'id': 195, 'question': 'Can you please suggest some local dishes to try when I visit Accra, Ghana?'}","You're visiting Accra, Ghana. For local dishes to try, I recommend the following:
+
+1. Jollof Rice - a popular dish you'll find in many places.
+2. Banku - a traditional dish you can find at street vendors or local restaurants.
+3. Kelewele - another local specialty you should try while you're there.
+
+Don't forget to try these dishes at street food vendors or local restaurants for an authentic experience.","{
+  ""Relevance"": ""RELEVANT"",
+  ""Explanation"": ""The generated answer directly addresses the question by suggesting specific local dishes to try in Accra, Ghana, and provides additional context on where to find them for an authentic experience.""",195,"Can you please suggest some local dishes to try when I visit Accra, Ghana?",,
+"{'id': 144, 'question': 'What are some types of guided tour options available in Algiers?'}","Based on the context, some types of guided tour options available in Algiers include:
+
+1. Cultural Tours: These tours allow visitors to explore the rich heritage and beautiful scenery of Algiers.
+2. Historical Sites Tours: Visitors can take a guided tour to explore the city's historical sites, including the Kasbah (a UNESCO site), Basilica of Notre-Dame d'Afrique, and Martyrs' Memorial.","{
+  ""Relevance"": ""RELEVANT"",
+  ""Explanation"": ""The generated answer directly addresses the question by providing specific types of guided tour options available in Algiers, namely Cultural Tours and Historical Sites Tours, which are relevant to the question's inquiry.""",144,What are some types of guided tour options available in Algiers?,,
+"{'id': 188, 'question': 'What kind of cultural experiences can I expect in Wellington in terms of art and scenic views, and what activities can I take part in to explore these aspects?'}","In Wellington, you can expect a vibrant artistic scene, with Te Papa Museum being a popular attraction that offers a glimpse into New Zealand's art and culture. For scenic views, Wellington is surrounded by beautiful natural landscapes that offer great spots to take in the scenery.
+
+To explore these aspects, consider taking part in cultural tours, which will give you a deeper understanding of the local art scene and the city's scenic views. Additionally, as the coffee culture is vibrant, exploring local roasteries and cafes could also be a great way to experience the artistic scene in Wellington.","{
+    ""Relevance"": ""RELEVANT"",
+    ""Explanation"": ""The generated answer directly addresses the question by providing information about the cultural experiences one can expect in Wellington, specifically in terms of art and scenic views. The answer also provides suggestions on activities one can take part in to explore these aspects, making it a relevant response to the question.""",188,"What kind of cultural experiences can I expect in Wellington in terms of art and scenic views, and what activities can I take part in to explore these aspects?",,
+"{'id': 141, 'question': 'Can you recommend any popular historical sites in the city of Lisbon?'}","Based on the context of Lisbon, Portugal, the popular historical sites include:
+
+1. Belém Tower 
+2. Alfama District","{
+  ""Relevance"": ""PARTLY_RELEVANT"",
+  ""Explanation"": ""The answer provides two specific historical sites in Lisbon, but does not fully answer the question as it lacks a comprehensive list of popular historical sites in the city. It also does not provide additional information or recommendations, which might be expected in a complete answer.""
+}",141,Can you recommend any popular historical sites in the city of Lisbon?,PARTLY_RELEVANT,"{'Relevance': 'PARTLY_RELEVANT', 'Explanation': 'The answer provides two specific historical sites in Lisbon, but does not fully answer the question as it lacks a comprehensive list of popular historical sites in the city. It also does not provide additional information or recommendations, which might be expected in a complete answer.'}"
+"{'id': 98, 'question': ""I'm an art enthusiast, what are some must-visit attractions to explore in Doha, Qatar?""}","As an art enthusiast, you'll love exploring Doha, Qatar. Here are some must-visit attractions to add to your itinerary:
+
+1. **Museum of Islamic Art**: This iconic museum is a must-visit, showcasing an impressive collection of Islamic art from around the world.
+2. **Katara Cultural Village**: This cultural village offers a glimpse into Qatar's rich heritage, with museums, art galleries, and traditional architecture.
+3. **Souq Waqif**: While not exclusively an art destination, this historic marketplace offers a unique blend of traditional Qatari culture and shopping.
+
+These attractions offer a great starting point to explore the art and cultural scene in Doha.","{
+  ""Relevance"": ""RELEVANT"",
+  ""Explanation"": ""The generated answer directly addresses the question by providing specific must-visit attractions in Doha, Qatar, that cater to an art enthusiast's interests. The quoted text highlights the features of these attractions, such as Islamic art, cultural heritage, and traditional architecture, which align with the art enthusiast's preferences.""",98,"I'm an art enthusiast, what are some must-visit attractions to explore in Doha, Qatar?",,
+"{'id': 22, 'question': 'What local Russian dishes should I try during my visit to Moscow?'}","During your visit to Moscow, you should try two local Russian dishes: Borscht and Pelmeni.","{
+  ""Relevance"": ""RELEVANT"",
+  ""Explanation"": ""The generated answer directly addresses the question by providing specific local Russian dishes to try during a visit to Moscow, making it highly relevant to the question.""
+}",22,What local Russian dishes should I try during my visit to Moscow?,RELEVANT,"{'Relevance': 'RELEVANT', 'Explanation': 'The generated answer directly addresses the question by providing specific local Russian dishes to try during a visit to Moscow, making it highly relevant to the question.'}"
+"{'id': 198, 'question': 'Are there any local food specialties that I should try while visiting Zanzibar?'}","Yes, there are local food specialties you should try while visiting Zanzibar.  Two popular options are Zanzibar Pizza and Seafood.","{
+  ""Relevance"": ""RELEVANT"",
+  ""Explanation"": ""The generated answer directly addresses the question, providing a positive response and mentioning specific local food specialties (Zanzibar Pizza and Seafood) that tourists should try while visiting Zanzibar.""",198,Are there any local food specialties that I should try while visiting Zanzibar?,,
+"{'id': 19, 'question': 'What are some must-try dishes when visiting Buenos Aires?'}","There's no information available about Buenos Aires. The provided context is about different destinations, including Asunción, Paraguay, Lilongwe, Malawi, and Accra, Ghana.","{
+""Relevance"": ""NON_RELEVANT"",
+""Explanation"": ""The generated answer is completely unrelated to the question about must-try dishes in Buenos Aires. Instead, it appears to be about different destinations and provides no information about food or dining in Buenos Aires.""",19,What are some must-try dishes when visiting Buenos Aires?,,
+"{'id': 117, 'question': 'What time of year is recommended to visit Mumbai for favorable weather?'}","According to the provided context, for Mumbai, India, the recommended time to visit for favorable weather is from October to February (two different reviews specify November to February and October to February).","{
+  ""Relevance"": ""RELEVANT"",
+  ""Explanation"": ""The generated answer directly addresses the question by providing specific timeframes (October to February and November to February) for visiting Mumbai to experience favorable weather, matching the expected answer type.""",117,What time of year is recommended to visit Mumbai for favorable weather?,,
+"{'id': 111, 'question': 'What time of year would you recommend visiting Stockholm for the best experience?'}","Based on the context provided, I would recommend visiting Stockholm from May to August for the best experience. This time frame is consistently listed as the best time to visit Stockholm across multiple references.","{
+  ""Relevance"": ""RELEVANT"",
+  ""Explanation"": ""The generated answer directly answers the question about the recommended time to visit Stockholm for the best experience, providing specific information about the best time to visit based on multiple references.""",111,What time of year would you recommend visiting Stockholm for the best experience?,,
+"{'id': 27, 'question': 'What type of activities can I participate in while visiting Johannesburg?'}","There is no information about Johannesburg in the given context. The provided context only includes destinations such as Los Angeles, Luanda, Malmo, Maputo, and Vladivostok.","{
+  ""Relevance"": ""NON_RELEVANT"",
+  ""Explanation"": ""The generated answer is not related to the question, as it states there is no information about Johannesburg in the context, which is the specific location being asked about. The answer does not provide any information about the topic being asked about.""",27,What type of activities can I participate in while visiting Johannesburg?,,
+"{'id': 99, 'question': 'What are some cultural activities available to experience in Ankara?'}","Some cultural activities available to experience in Ankara include:
+
+1. Cultural Tours
+2. Historical Sites 
+3. Cultural Events","{
+  ""Relevance"": ""RELEVANT"",
+  ""Explanation"": ""The generated answer explicitly mentions 'cultural activities' and specifically lists cultural tours, historical sites, and cultural events in Ankara, directly addressing the question and providing relevant information.""",99,What are some cultural activities available to experience in Ankara?,,
+"{'id': 179, 'question': ""What activities can I participate in to learn more about the city's cultural heritage?""}",You can participate in Cultural Tours or visit the preferred attractions in the city to learn more about its cultural heritage.,"{
+  ""Relevance"": ""RELEVANT"",
+  ""Explanation"": ""The generated answer directly addresses the question of what activities can be participated in to learn more about the city's cultural heritage, providing specific examples of Cultural Tours and visiting preferred attractions, which aligns with the question's context.""",179,What activities can I participate in to learn more about the city's cultural heritage?,,
+"{'id': 80, 'question': 'What is one place in Lagos, Nigeria that was positively reviewed by a user and what did they like about it?'}","One place in Lagos, Nigeria that was positively reviewed by a user is the Lekki Conservation Centre. The user liked that it's ""beautiful"".","{
+  ""Relevance"": ""PARTLY_RELEVANT"",
+  ""Explanation"": ""The generated answer partially answers the question by providing a specific location in Lagos, Nigeria that was positively reviewed. However, it lacks information about what the user liked about it, which is an important part of the question. The provided information about it being 'beautiful' does not directly answer the question, which seeks specific details about what the user liked.""",80,"What is one place in Lagos, Nigeria that was positively reviewed by a user and what did they like about it?",,
+"{'id': 9, 'question': 'What time of the year is best suited for visiting Bangkok in terms of weather and other conditions?'}",The best time to visit Bangkok in terms of weather and other conditions is from November to February.,"{
+""Relevance"": ""RELEVANT"",
+""Explanation"": ""The generated answer directly addresses the question, providing a specific time period of the year (November to February) that is suitable for visiting Bangkok in terms of weather and other conditions, which aligns with the question's requirements.""",9,What time of the year is best suited for visiting Bangkok in terms of weather and other conditions?,,
+"{'id': 19, 'question': 'What time of the year is ideal for visiting Buenos Aires?'}","I don't have any information about Buenos Aires in the provided context. All of the destinations listed are other cities around the world, but Buenos Aires is not one of them. I'm unable to answer the question based on the context provided.","{
+  ""Relevance"": ""PARTLY_RELEVANT"",
+  ""Explanation"": ""The answer is relevant because it acknowledges the question and provides a reason why the answer cannot be generated, but it does not provide a direct answer to the question itself. A more relevant answer would have provided information about the ideal time to visit Buenos Aires.""",19,What time of the year is ideal for visiting Buenos Aires?,,
+"{'id': 191, 'question': 'What languages can I expect to hear spoken in Copenhagen, and will English be widely understood?'}","Unfortunately, our exercises database does not contain any information about Copenhagen. All the provided information is about different cities: New York, Sydney, London, Los Angeles, and Melbourne.","{
+  ""Relevance"": ""NON_RELEVANT"",
+  ""Explanation"": ""The generated answer does not address the question about languages and English understanding in Copenhagen, instead, it mentions a database error and lists information about different cities, which is unrelated to the question.""",191,"What languages can I expect to hear spoken in Copenhagen, and will English be widely understood?",,
+"{'id': 113, 'question': 'Are there historical guided tours available during early mornings in Prague?'}","Yes, historical guided tours are available in Prague. While the exact time of day for these tours isn't specified, it's recommended to visit popular attractions like Charles Bridge early in the morning to avoid crowds, which suggests that guided tours might also be available during early mornings.","{
+  ""Relevance"": ""PARTLY_RELEVANT"",
+  ""Explanation"": ""The generated answer mentions that historical guided tours are available in Prague, which answers part of the question. However, it does not specify whether these tours are available during early mornings, which is the specific condition mentioned in the question. The provided additional information about visiting popular attractions early in the morning to avoid crowds is not directly relevant to the question.""",113,Are there historical guided tours available during early mornings in Prague?,,
+"{'id': 10, 'question': 'I want to explore Rio without getting lost, what transportation options are recommended for tourists?'}","There is no specific information about Rio in the provided context. However, I can offer general advice based on the available information. Tourists typically prefer using public transportation, walking, or taxis to explore a city. If you'd like specific information about transportation options in Rio, I would need more context.","{
+  ""Relevance"": ""PARTLY_RELEVANT"",
+  ""Explanation"": ""The generated answer acknowledges the question and provides general information about transportation options, but fails to directly address Rio specifically, instead asking for more context. While it's partially relevant, it doesn't provide a direct and specific answer to the question.""",10,"I want to explore Rio without getting lost, what transportation options are recommended for tourists?",,
+"{'id': 177, 'question': 'Can you tell me some famous attractions I should visit during my trip to Accra?'}","During your trip to Accra, some famous attractions you should visit include the Kwame Nkrumah Mausoleum and Labadi Beach. These attractions are consistently listed as popular places to see and experience the culture of Accra, Ghana.","{
+  ""Relevance"": ""RELEVANT"",
+  ""Explanation"": ""The answer provides specific and relevant information about famous attractions in Accra, Ghana, which directly answers the question asked. The mentioned attractions, Kwame Nkrumah Mausoleum and Labadi Beach, are also mentioned as popular tourist spots, making the answer a relevant response to the query.""
+}",177,Can you tell me some famous attractions I should visit during my trip to Accra?,RELEVANT,"{'Relevance': 'RELEVANT', 'Explanation': 'The answer provides specific and relevant information about famous attractions in Accra, Ghana, which directly answers the question asked. The mentioned attractions, Kwame Nkrumah Mausoleum and Labadi Beach, are also mentioned as popular tourist spots, making the answer a relevant response to the query.'}"
+"{'id': 32, 'question': ""Is there a specific traditional local dish I should try while I'm in Shanghai?""}","Yes, while you're in Shanghai, you should try Xiaolongbao or Peking Duck, as they are highlighted as traditional local dishes.","{
+  ""Relevance"": ""RELEVANT"",
+  ""Explanation"": ""The generated answer directly addresses the question by providing specific traditional local dishes that the respondent should try while in Shanghai, making it highly relevant to the question.""",32,Is there a specific traditional local dish I should try while I'm in Shanghai?,,
+"{'id': 112, 'question': 'Are there any specific shopping or scenic spots near popular attractions that I should be aware of?'}","In Cairo, Egypt, near the Pyramids of Giza, you should explore the vibrant Khan el-Khalili market for a unique shopping experience. Additionally, the Egyptian Museum is also worth visiting for its rich cultural significance.
+
+In Doha, Qatar, the area around Museum of Islamic Art offers stunning views of the waterfront and luxury dining options can be explored at The Pearl-Qatar. Nearby Souq Waqif is also a great place to visit for a mix of shopping, culture, and local experiences.
+
+In Mumbai, India, the Colaba district offers a great opportunity for local shopping and is near the iconic Gateway of India and the bustling Marine Drive.
+
+In Seoul, South Korea, the area around Gyeongbokgung Palace, known as the Bukchon Hanok Village, is a perfect spot for shopping for traditional items and experiencing the local culture.","{
+""Relevance"": ""RELEVANT"",
+""Explanation"": ""The generated answer provides specific shopping or scenic spot suggestions near popular attractions, which directly answers the question. It provides details about local experiences, shopping opportunities, and cultural significance near iconic landmarks in different cities.""
+}",112,Are there any specific shopping or scenic spots near popular attractions that I should be aware of?,RELEVANT,"{'Relevance': 'RELEVANT', 'Explanation': 'The generated answer provides specific shopping or scenic spot suggestions near popular attractions, which directly answers the question. It provides details about local experiences, shopping opportunities, and cultural significance near iconic landmarks in different cities.'}"
+"{'id': 129, 'question': ""I'm planning to visit Auckland and I'm interested in trying adventure sports. What time of the year would be best to visit?""}",The best time to visit Auckland for adventure sports is from December to February.,"{
+  ""Relevance"": ""RELEVANT"",
+  ""Explanation"": ""The generated answer provides specific information about the best time to visit Auckland for adventure sports, which is the main topic of the question. Although it doesn't answer the exact question about the months fitting this description, it still provides relevant context for the question.""
+}",129,I'm planning to visit Auckland and I'm interested in trying adventure sports. What time of the year would be best to visit?,RELEVANT,"{'Relevance': 'RELEVANT', 'Explanation': ""The generated answer provides specific information about the best time to visit Auckland for adventure sports, which is the main topic of the question. Although it doesn't answer the exact question about the months fitting this description, it still provides relevant context for the question.""}"
+"{'id': 37, 'question': 'What is the mode of public transportation that one can commonly use to get around Manila?'}","In Manila, one can commonly use Jeepneys, LRT (Light Rail Transit), or Buses as modes of public transportation to get around.","{
+""Relevance"": ""RELEVANT"",
+""Explanation"": ""The generated answer provides a list of modes of public transportation in Manila, which directly answers the question.""
+}",37,What is the mode of public transportation that one can commonly use to get around Manila?,RELEVANT,"{'Relevance': 'RELEVANT', 'Explanation': 'The generated answer provides a list of modes of public transportation in Manila, which directly answers the question.'}"
+"{'id': 196, 'question': 'What are the names of some beaches in Nassau, Bahamas that are known for being stunning and relaxing?'}","Unfortunately, based on the context provided, I couldn't find any specific names of beaches in Nassau, Bahamas that are known for being stunning and relaxing. The user reviews only mention that the beaches are gorgeous, stunning, and relaxing, but no specific names are mentioned.","{
+  ""Relevance"": ""PARTLY_RELEVANT"",
+  ""Explanation"": ""The generated answer partially addresses the question by acknowledging that the user reviews mention the beaches are stunning and relaxing, but it fails to provide the exact names of the beaches as requested in the question.""",196,"What are the names of some beaches in Nassau, Bahamas that are known for being stunning and relaxing?",,
+"{'id': 39, 'question': ""What makes Moscow's art scene so unique and worth exploring?""}","Moscow's art scene is unique and worth exploring, as can be inferred by the mention of ""Art"" under ""cultural_highlights"" for the Moscow destination, similar to New York and Madrid.","{
+  ""Relevance"": ""PARTLY_RELEVANT"",
+  ""Explanation"": ""The answer partly addresses the uniqueness of Moscow's art scene, but lacks a clear explanation or specific examples to support its claim. The mention of 'Art' under 'cultural_highlights' is a vague comparison to other cities, but does not provide any meaningful insights into what makes Moscow's art scene unique.""
+}",39,What makes Moscow's art scene so unique and worth exploring?,PARTLY_RELEVANT,"{'Relevance': 'PARTLY_RELEVANT', 'Explanation': ""The answer partly addresses the uniqueness of Moscow's art scene, but lacks a clear explanation or specific examples to support its claim. The mention of 'Art' under 'cultural_highlights' is a vague comparison to other cities, but does not provide any meaningful insights into what makes Moscow's art scene unique.""}"
+"{'id': 173, 'question': 'What types of activities can I participate in while visiting Harare?'}","When visiting Harare, Zimbabwe, you can participate in the following types of activities:
+
+1. Cultural Tours
+2. Nature Walks
+3. Cultural Events
+4. Music Experiences","{
+""Relevance"": ""RELEVANT"",
+""Explanation"": ""The generated answer provides specific types of activities that one can participate in while visiting Harare, which is directly related to the original question.""",173,What types of activities can I participate in while visiting Harare?,,
+"{'id': 38, 'question': 'I am traveling to Bali in March, should I consider rescheduling my trip to experience the best weather?'}","No, you don't need to reschedule your trip to Bali in March. However, the best time to visit Bali is from April to October.","{
+""Relevance"": ""PARTLY_RELEVANT"",
+""Explanation"": ""The generated answer partially addresses the question by hinting that March might not be the best time to visit Bali. However, it does not provide a direct answer to the question about rescheduling the trip, and instead provides information about the best time to visit Bali, which is not directly relevant to the initial query.""",38,"I am traveling to Bali in March, should I consider rescheduling my trip to experience the best weather?",,
+"{'id': 17, 'question': 'What are the local specialties I should try when I visit Seoul?'}","When visiting Seoul, you should try the local specialties such as Kimchi and Bibimbap, or alternatively, Kimchi and BBQ. It's also a good idea to visit Gwangjang Market for more local treats.","{
+  ""Relevance"": ""RELEVANT"",
+  ""Explanation"": ""The generated answer directly addresses the question by providing specific local specialties in Seoul, including Kimchi, Bibimbap, and BBQ. Additionally, the recommendation to visit Gwangjang Market further supports the answer's relevance to the question, as it provides a location where one can try more local specialties.""",17,What are the local specialties I should try when I visit Seoul?,,
+"{'id': 42, 'question': 'What kind of transportation options will I have in Abu Dhabi?'}","In Abu Dhabi, you will have the following transportation options: Buses and Taxis.","{
+  ""Relevance"": ""PARTLY_RELEVANT"",
+  ""Explanation"": ""The generated answer partially addresses the question by mentioning specific transportation options (buses and taxis) in Abu Dhabi. However, it does not explicitly state the kind of transportation options, it only provides a list of options, which leaves the inquiry unanswered to some extent.""
+}",42,What kind of transportation options will I have in Abu Dhabi?,PARTLY_RELEVANT,"{'Relevance': 'PARTLY_RELEVANT', 'Explanation': 'The generated answer partially addresses the question by mentioning specific transportation options (buses and taxis) in Abu Dhabi. However, it does not explicitly state the kind of transportation options, it only provides a list of options, which leaves the inquiry unanswered to some extent.'}"
+"{'id': 16, 'question': 'Is there any local public transportation available for tourists in Bangalore?'}","Yes, there is local public transportation available for tourists in Bangalore. The transportation options available include Metro, Buses, and Auto-rickshaws.","{
+  ""Relevance"": ""RELEVANT"",
+  ""Explanation"": ""The generated answer directly addresses the question by confirming the availability of local public transportation options in Bangalore, and even provides specific examples such as Metro, Buses, and Auto-rickshaws, which aligns with the question's focus on transportation for tourists.""",16,Is there any local public transportation available for tourists in Bangalore?,,
+"{'id': 92, 'question': 'What types of public transportation are available to get me around the city?'}",There are two options for public transportation in Osaka.  You can use the Metro or Trains to get around the city.,"{
+  ""Relevance"": ""PARTLY_RELEVANT"",
+  ""Explanation"": ""The generated answer mentions public transportation options, which is partially relevant to the question. However, the city specified in the answer is Osaka, which is not mentioned in the question and limits the relevance of the answer to general public transportation options.""",92,What types of public transportation are available to get me around the city?,,
+"{'id': 113, 'question': 'Can I take a romantic walk on Charles Bridge without bumping into the crowds?'}","Yes, you can take a romantic walk on Charles Bridge without bumping into the crowds if you visit at sunrise. According to multiple travel tips, visiting Charles Bridge early will help you avoid the crowds.","{
+  ""Relevance"": ""RELEVANT"",
+  ""Explanation"": ""The generated answer directly addresses the question about taking a romantic walk on Charles Bridge without bumping into crowds, providing a specific solution (visiting at sunrise) and supporting information (based on multiple travel tips).""",113,Can I take a romantic walk on Charles Bridge without bumping into the crowds?,,
+"{'id': 13, 'question': 'What time of the year is best suited for visiting Madrid, Spain?'}","The best time to visit Madrid, Spain is from March to June or September.","{
+  ""Relevance"": ""RELEVANT"",
+  ""Explanation"": ""The generated answer provides specific time periods (March to June or September) that are considered suitable for visiting Madrid, Spain, which matches the context of the question asking about the best time to visit.""",13,"What time of the year is best suited for visiting Madrid, Spain?",,
+"{'id': 102, 'question': 'Are the locals in Quebec City able to communicate in English?'}",There is no information available in the context about Quebec City.,"{
+  ""Relevance"": ""NON_RELEVANT"",
+  ""Explanation"": ""The generated answer does not address the question's topic, instead providing general information about the availability of context information, which is not relevant to determining the ability of locals in Quebec City to communicate in English.""",102,Are the locals in Quebec City able to communicate in English?,,
+"{'id': 215, 'question': ""I'm visiting doha in May, what tip can you provide for this time?""}","Unfortunately, I don't have a specific tip for Doha in May from the context. Doha is not mentioned in the provided context.","{
+  ""Relevance"": ""NON_RELEVANT"",
+  ""Explanation"": ""The generated answer is not relevant to the question because it starts with an admission that the model does not have a specific tip for Doha in May and explicitly states that Doha is not mentioned in the provided context. This indicates that the answer does not address the main question and provides no useful information.""",215,"I'm visiting doha in May, what tip can you provide for this time?",,
+"{'id': 6, 'question': 'Is surfing available as an activity option throughout the year in Sydney?'}","Surfing is available as an activity option in Sydney. However, based on the provided information, the best time to visit Sydney is December to February, which implies that surfing might be more suitable or popular during these months.","{
+  ""Relevance"": ""PARTLY_RELEVANT"",
+  ""Explanation"": ""The generated answer partially answers the question by confirming that surfing is available as an activity option in Sydney. However, it also provides additional information about the best time to visit Sydney, which is not directly related to the question's inquiry about availability throughout the year.""
+}",6,Is surfing available as an activity option throughout the year in Sydney?,PARTLY_RELEVANT,"{'Relevance': 'PARTLY_RELEVANT', 'Explanation': ""The generated answer partially answers the question by confirming that surfing is available as an activity option in Sydney. However, it also provides additional information about the best time to visit Sydney, which is not directly related to the question's inquiry about availability throughout the year.""}"
+"{'id': 17, 'question': 'What is the recommended duration for visiting Gyeongbokgung Palace in Seoul?'}",The recommended duration for visiting Gyeongbokgung Palace in Seoul is a half-day visit.,"{
+  ""Relevance"": ""RELEVANT"",
+  ""Explanation"": ""The generated answer directly addresses the question and provides the specific information requested, which is the recommended duration for visiting Gyeongbokgung Palace in Seoul, specifically a half-day visit.""
+}",17,What is the recommended duration for visiting Gyeongbokgung Palace in Seoul?,RELEVANT,"{'Relevance': 'RELEVANT', 'Explanation': 'The generated answer directly addresses the question and provides the specific information requested, which is the recommended duration for visiting Gyeongbokgung Palace in Seoul, specifically a half-day visit.'}"
+"{'id': 10, 'question': 'What language do locals speak in Rio de Janeiro, should I learn some key phrases before my trip?'}","Based on the context provided, the language spoken by locals in Rio de Janeiro is Portuguese. While it's not necessary to be fluent, learning some key phrases in Portuguese, such as basic greetings and phrases to help you navigate, can be helpful and enhance your overall experience.","{
+  ""Relevance"": ""RELEVANT"",
+  ""Explanation"": ""The generated answer directly answers the question about the language spoken by locals in Rio de Janeiro and provides useful information on the value of learning key phrases for the trip, making it highly relevant to the inquiry.""",10,"What language do locals speak in Rio de Janeiro, should I learn some key phrases before my trip?",,
+"{'id': 154, 'question': 'What are the local foods that I should try when I am in Vancouver?'}","When you're in Vancouver, you should try the following local foods: 
+
+1. Poutine
+2. Salmon","{
+  ""Relevance"": ""RELEVANT"",
+  ""Explanation"": ""The generated answer provides specific suggestions for local foods to try in Vancouver, which is directly addressing the question. Although it's a concise answer, it meets the requirement of providing relevant information to the question.""",154,What are the local foods that I should try when I am in Vancouver?,,
+"{'id': 26, 'question': ""How can I get around the city while I'm visiting?""}","To get around Brasilia, you can use buses or taxis.","{
+  ""Relevance"": ""PARTLY_RELEVANT"",
+  ""Explanation"": ""The generated answer is partly relevant because it provides a valid transportation option (buses or taxis) for getting around. However, it is not directly relevant to the question 'How can I get around the city while I'm visiting?' which asks for information for any city, not just Brasilia.""
+}",26,How can I get around the city while I'm visiting?,PARTLY_RELEVANT,"{'Relevance': 'PARTLY_RELEVANT', 'Explanation': ""The generated answer is partly relevant because it provides a valid transportation option (buses or taxis) for getting around. However, it is not directly relevant to the question 'How can I get around the city while I'm visiting?' which asks for information for any city, not just Brasilia.""}"
+"{'id': 42, 'question': 'What are the local specialties I should try when visiting Abu Dhabi?'}","When visiting Abu Dhabi, be sure to try the local specialties, which include Falafel and Shawarma.","{
+  ""Relevance"": ""RELEVANT"",
+  ""Explanation"": ""The generated answer mentions local specialties that should be tried when visiting Abu Dhabi, which directly answers the question.""",42,What are the local specialties I should try when visiting Abu Dhabi?,,
+"{'id': 192, 'question': 'What kind of local cuisine should I expect to find when I travel to Cartagena?'}","In Cartagena, you can expect to find local cuisine such as Arepas and Ceviche.","{
+  ""Relevance"": ""RELEVANT"",
+  ""Explanation"": ""The generated answer directly addresses the question, providing specific information about the local cuisine in Cartagena, including Arepas and Ceviche, which are relevant examples of food that can be expected to find when traveling to the city.""",192,What kind of local cuisine should I expect to find when I travel to Cartagena?,,
+"{'id': 97, 'question': 'What is the best way to explore Valletta in Malta?'}","The best way to explore Valletta in Malta is on foot, as it provides the best views of the city.","{
+  ""Relevance"": ""PARTLY_RELEVANT"",
+  ""Explanation"": ""The generated answer is partly relevant because it does provide some information about exploring Valletta, but it is limited to a single transportation method (walking) and does not provide a comprehensive or general answer to the question. The question asked about the 'best way' to explore Valletta, which suggests that an answer should include a comparison of different options or methods.""",97,What is the best way to explore Valletta in Malta?,,
+"{'id': 109, 'question': 'Can you recommend any must-try dishes at local eateries in Dhaka?'}","Based on the context, I would recommend trying Biryani and Hilsa Fish at local eateries in Dhaka. Additionally, you can also try Biriyani and Sweets which are also local cuisine highlights.","{
+  ""Relevance"": ""RELEVANT"",
+  ""Explanation"": ""The generated answer directly responds to the question by recommending specific dishes (Biryani and Hilsa Fish) at local eateries in Dhaka, which is the context asked for.""
+}",109,Can you recommend any must-try dishes at local eateries in Dhaka?,RELEVANT,"{'Relevance': 'RELEVANT', 'Explanation': 'The generated answer directly responds to the question by recommending specific dishes (Biryani and Hilsa Fish) at local eateries in Dhaka, which is the context asked for.'}"
+"{'id': 111, 'question': ""What are some popular dishes I should try while I'm in Stockholm?""}","While in Stockholm, some popular dishes you should try include:
+
+1. Meatballs (or Swedish Meatballs) 
+2. Herring
+3. Gravlax","{
+  ""Relevance"": ""RELEVANT"",
+  ""Explanation"": ""The generated answer is directly relevant to the question, providing names of popular dishes one should try while in Stockholm, which is the main topic of the question.""",111,What are some popular dishes I should try while I'm in Stockholm?,,
+"{'id': 152, 'question': ""What are some popular food items that reflect Helsinki's local cuisine?""}","There is no information in the given context about Helsinki's local cuisine. The destinations mentioned are Beirut, Copenhagen, Mumbai, Hanoi, and Mexico City, but Helsinki is not included.","{
+  ""Relevance"": ""NON_RELEVANT"",
+  ""Explanation"": ""The generated answer does not provide any information about Helsinki's local cuisine, which is the main topic of the question. Instead, it mentions other destinations, but not Helsinki, making the answer irrelevant to the question.""
+}",152,What are some popular food items that reflect Helsinki's local cuisine?,NON_RELEVANT,"{'Relevance': 'NON_RELEVANT', 'Explanation': ""The generated answer does not provide any information about Helsinki's local cuisine, which is the main topic of the question. Instead, it mentions other destinations, but not Helsinki, making the answer irrelevant to the question.""}"
+"{'id': 107, 'question': 'What languages can I expect locals to speak when communicating with them in Riga?'}",You can expect locals in Riga to speak Latvian and Russian when communicating with them.,"{
+  ""Relevance"": ""RELEVANT"",
+  ""Explanation"": ""The generated answer directly addresses the question by providing information about the languages that locals in Riga speak, which is a crucial aspect of communication when traveling to a new city.""
+}",107,What languages can I expect locals to speak when communicating with them in Riga?,RELEVANT,"{'Relevance': 'RELEVANT', 'Explanation': 'The generated answer directly addresses the question by providing information about the languages that locals in Riga speak, which is a crucial aspect of communication when traveling to a new city.'}"
+"{'id': 61, 'question': 'What forms of public transportation can I use to get around the city of Chennai during my visit?'}","To get around the city of Chennai during your visit, you can use the following forms of public transportation: 
+
+1. Metro
+2. Buses
+3. Auto-rickshaws","{
+  ""Relevance"": ""RELEVANT"",
+  ""Explanation"": ""The generated answer directly addresses the question, providing specific forms of public transportation that can be used to get around the city of Chennai, which is the main topic of the question.""
+}",61,What forms of public transportation can I use to get around the city of Chennai during my visit?,RELEVANT,"{'Relevance': 'RELEVANT', 'Explanation': 'The generated answer directly addresses the question, providing specific forms of public transportation that can be used to get around the city of Chennai, which is the main topic of the question.'}"
+"{'id': 83, 'question': ""What is the best time to plan a trip to Berlin to explore the city's attractions?""}",The best time to plan a trip to Berlin to explore the city's attractions is from May to September.,"{
+  ""Relevance"": ""RELEVANT"",
+  ""Explanation"": ""The generated answer directly addresses the question, providing a specific range of time (May to September) as the best time to plan a trip to Berlin to explore the city's attractions. The answer is relevant because it provides relevant and specific information in response to the question.""",83,What is the best time to plan a trip to Berlin to explore the city's attractions?,,
+"{'id': 162, 'question': ""I'm particularly excited about trying local dishes, are sushi and ramen must-try foods around there?""}","Based on the context, yes, sushi and ramen are must-try foods in Tokyo, Japan. They are mentioned as local cuisine highlights in both descriptions of Tokyo.","{
+  ""Relevance"": ""RELEVANT"",
+  ""Explanation"": ""The generated answer explicitly addresses the question about whether sushi and ramen are must-try foods in a specific location, Tokyo, Japan. The answer is directly related to the question and provides relevant information.""
+}",162,"I'm particularly excited about trying local dishes, are sushi and ramen must-try foods around there?",RELEVANT,"{'Relevance': 'RELEVANT', 'Explanation': 'The generated answer explicitly addresses the question about whether sushi and ramen are must-try foods in a specific location, Tokyo, Japan. The answer is directly related to the question and provides relevant information.'}"
+"{'id': 82, 'question': 'What languages are spoken by the locals in Vancouver?'}",The languages spoken by the locals in Vancouver are English and French.,"{
+  ""Relevance"": ""RELEVANT"",
+  ""Explanation"": ""The generated answer provides a direct answer to the question, listing the languages spoken by the locals in Vancouver, which are English and French. The answer is relevant to the question and provides the necessary information.""",82,What languages are spoken by the locals in Vancouver?,,
+"{'id': 70, 'question': 'Are there any historical sports gatherings I could attend, or are they mostly tours or exhibitions?'}","Based on the context provided, there are historical sports gatherings you could attend, specifically in Boston, USA. Boston has activities available that include 'Sports Events', in addition to its 'Historical Tours'.","{
+  ""Relevance"": ""RELEVANT"",
+  ""Explanation"": ""The generated answer directly addresses the question by providing information about historical sports gatherings. It also provides specific examples, namely 'Sports Events' and 'Historical Tours' in Boston, which is relevant to the context of the question.""",70,"Are there any historical sports gatherings I could attend, or are they mostly tours or exhibitions?",,
+"{'id': 90, 'question': ""What type of local food should I try when I'm in Ankara?""}","When you're in Ankara, you should try Kebabs and Baklava, as these are the local cuisine highlights of the city.","{
+  ""Relevance"": ""RELEVANT"",
+  ""Explanation"": ""The generated answer directly addresses the question, providing specific types of local food to try in Ankara, which is in line with what the question asks for.""
+}",90,What type of local food should I try when I'm in Ankara?,RELEVANT,"{'Relevance': 'RELEVANT', 'Explanation': 'The generated answer directly addresses the question, providing specific types of local food to try in Ankara, which is in line with what the question asks for.'}"
+"{'id': 135, 'question': 'Are there any specific activities that I can participate in along the Nile River?'}","Yes, along the Nile River, you can participate in ""River Activities"" or go on a ""Cultural Tour."" In particular, consider taking a dinner cruise for a unique experience, which allows you to enjoy the views of the Nile River while having a meal.","{
+  ""Relevance"": ""RELEVANT"",
+  ""Explanation"": ""The generated answer is relevant to the question as it provides specific activities that can be participated in along the Nile River. The answer mentions 'River Activities' and 'Cultural Tour', which are concrete examples that fulfill the query. The additional suggestion of a dinner cruise is a relevant detail that provides more information about the activities to be done along the Nile River.""",135,Are there any specific activities that I can participate in along the Nile River?,,
+"{'id': 50, 'question': 'What is the best time of the year to plan a visit to Abidjan?'}",The best time to plan a visit to Abidjan is from November to March.,"{
+  ""Relevance"": ""RELEVANT"",
+  ""Explanation"": ""The generated answer directly addresses the question 'What is the best time of the year to plan a visit to Abidjan?' by providing a specific time period (November to March) that is relevant to the context of visiting Abidjan.""
+}",50,What is the best time of the year to plan a visit to Abidjan?,RELEVANT,"{'Relevance': 'RELEVANT', 'Explanation': ""The generated answer directly addresses the question 'What is the best time of the year to plan a visit to Abidjan?' by providing a specific time period (November to March) that is relevant to the context of visiting Abidjan.""}"
+"{'id': 54, 'question': 'What is the best time of the year for visiting Tunis, Tunisia if I want to avoid extreme temperatures?'}","Based on the provided context, the best time to visit Tunis, Tunisia to avoid extreme temperatures is commonly cited as April to October in multiple sources. However, one source also suggests March to May or September to November as alternative periods to avoid extreme temperatures.","{
+  ""Relevance"": ""RELEVANT"",
+  ""Explanation"": ""The generated answer directly addresses the question, providing specific time periods that are commonly cited as best times to visit Tunis, Tunisia to avoid extreme temperatures. The answer meets the requirements of the question, providing relevant and contextual information.""",54,"What is the best time of the year for visiting Tunis, Tunisia if I want to avoid extreme temperatures?",,
+"{'id': 198, 'question': 'Can I easily communicate in English while visiting Zanzibar?'}","Yes, you can easily communicate in English while visiting Zanzibar. According to the context, one of the languages spoken in Zanzibar is English, along with Swahili.","{
+  ""Relevance"": ""RELEVANT"",
+  ""Explanation"": ""The generated answer directly responds to the question, providing a clear and concise statement about the feasibility of communicating in English while visiting Zanzibar, and also provides additional context about the languages spoken in the region.""
+}",198,Can I easily communicate in English while visiting Zanzibar?,RELEVANT,"{'Relevance': 'RELEVANT', 'Explanation': 'The generated answer directly responds to the question, providing a clear and concise statement about the feasibility of communicating in English while visiting Zanzibar, and also provides additional context about the languages spoken in the region.'}"
+"{'id': 187, 'question': 'What types of cultural activities can I expect to participate in when I visit Jaipur, India?'}","In Jaipur, India, you can expect to participate in cultural activities such as Cultural Tours, where you can explore the rich heritage and colorful markets of the city. You can also visit historical sites and experience the city's rich cultural heritage firsthand.","{
+  ""Relevance"": ""RELEVANT"",
+  ""Explanation"": ""The generated answer directly addresses the question by providing specific types of cultural activities that can be expected to participate in when visiting Jaipur, India, such as cultural tours and exploring historical sites.""
+}",187,"What types of cultural activities can I expect to participate in when I visit Jaipur, India?",RELEVANT,"{'Relevance': 'RELEVANT', 'Explanation': 'The generated answer directly addresses the question by providing specific types of cultural activities that can be expected to participate in when visiting Jaipur, India, such as cultural tours and exploring historical sites.'}"
+"{'id': 21, 'question': 'What are some of the must-try dishes when visiting Prague?'}","Some must-try dishes when visiting Prague include Svíčková, Trdelník, and Goulash.","{
+  ""Relevance"": ""RELEVANT"",
+  ""Explanation"": ""The generated answer provides a list of dish names that can be found in Prague. The question asks for must-try dishes in Prague, and the generated answer provides specific examples of dishes that a visitor might want to try. The answer is directly related to the question and provides relevant information.""",21,What are some of the must-try dishes when visiting Prague?,,
+"{'id': 138, 'question': 'What are the geographical coordinates of Sucre, Bolivia?'}","-19.0333° S, -65.2628° W","{
+  ""Relevance"": ""RELEVANT"",
+  ""Explanation"": ""The generated answer provides the exact geographical coordinates (latitude and longitude) of Sucre, Bolivia, which is the intended information requested in the question.""",138,"What are the geographical coordinates of Sucre, Bolivia?",,
+"{'id': 166, 'question': 'What are the options for getting around Yangon besides walking?'}",There is no information available in the context about Yangon.,"{
+  ""Relevance"": ""NON_RELEVANT"",
+  ""Explanation"": ""The generated answer explicitly states that there is no information available in the context about Yangon, which is unrelated to the question about getting around Yangon besides walking.""",166,What are the options for getting around Yangon besides walking?,,
+"{'id': 7, 'question': 'Are there any recommended activities I need to try during my stay in Barcelona?'}","During your stay in Barcelona, there are two recommended activities to try: 
+
+1. Flamenco Shows - a cultural highlight that showcases traditional Spanish dance and music.
+2. Bike Tours - a great way to explore the city's attractions, such as Park Güell and the Gothic Quarter.","{
+  ""Relevance"": ""RELEVANT"",
+  ""Explanation"": ""The generated answer directly addresses the question by providing specific recommended activities to try during the stay in Barcelona, making it highly relevant.""
+}",7,Are there any recommended activities I need to try during my stay in Barcelona?,RELEVANT,"{'Relevance': 'RELEVANT', 'Explanation': 'The generated answer directly addresses the question by providing specific recommended activities to try during the stay in Barcelona, making it highly relevant.'}"
+"{'id': 41, 'question': 'What are some of the top attractions I can visit in Casablanca?'}","Based on the context, some of the top attractions you can visit in Casablanca include:
+
+1. Hassan II Mosque
+2. Old Medina
+3. Royal Palace
+
+Note: Although the Hassan II Mosque is mentioned in each of the Casablanca entries, the above answer only lists the top attractions mentioned (excluding the mosque that is referred in each entry but considering overall attraction entries).","{
+  ""Relevance"": ""RELEVANT"",
+  ""Explanation"": ""The generated answer provides a list of top attractions that can be visited in Casablanca, which directly addresses the question. The provided attractions are relevant to the query and align with the topic of tourist attractions in Casablanca.""
+}",41,What are some of the top attractions I can visit in Casablanca?,RELEVANT,"{'Relevance': 'RELEVANT', 'Explanation': 'The generated answer provides a list of top attractions that can be visited in Casablanca, which directly addresses the question. The provided attractions are relevant to the query and align with the topic of tourist attractions in Casablanca.'}"
+"{'id': 8, 'question': 'What time of day is recommended to visit popular attractions in Istanbul for a more peaceful experience?'}","To visit popular attractions in Istanbul for a more peaceful experience, it is recommended to visit in the morning.","{
+  ""Relevance"": ""RELEVANT"",
+  ""Explanation"": ""The generated answer is directly related to the question, providing a specific time of day (morning) for visiting popular attractions in Istanbul to have a more peaceful experience. The answer accurately addresses the query and provides a relevant piece of information.""",8,What time of day is recommended to visit popular attractions in Istanbul for a more peaceful experience?,,
+"{'id': 164, 'question': 'What are some must-see attractions I should prioritize during my visit to Stockholm?'}","Based on the context provided for Stockholm, the must-see attractions you should prioritize during your visit include:
+
+1. Gamla Stan: This historic district appears in two separate entries as a popular attraction, indicating its importance and appeal.
+2. The Vasa Museum: Multiple user reviews highlight the Vasa Museum as a 'must-see' due to its uniqueness and informative exhibits. Travel tips also suggest allocating at least half a day or a few hours to explore the museum.
+3. Djurgården: This popular attraction is mentioned alongside Gamla Stan in one of the context entries, indicating it's a notable area to visit.
+4. ABBA Museum: Although mentioned only once, the ABBA Museum is another popular attraction that might be of interest to music fans.","{
+  ""Relevance"": ""RELEVANT"",
+  ""Explanation"": ""The generated answer provides a list of specific attractions in Stockholm, which is directly relevant to the question 'What are some must-see attractions I should prioritize during my visit to Stockholm?' The answer includes descriptions of the attractions and even provides context from user reviews and travel tips, making it a relevant and informative response.""",164,What are some must-see attractions I should prioritize during my visit to Stockholm?,,
+"{'id': 84, 'question': 'Are there good transportation options available once I reach Reykjavik?'}","Yes, once you reach Reykjavik, there are good transportation options available. You can choose from Buses and Taxis. Walking is also an option mentioned in one of the entries.","{
+  ""Relevance"": ""RELEVANT"",
+  ""Explanation"": ""The generated answer directly addresses the question, providing information about transportation options available in Reykjavik once you reach there, specifically mentioning buses, taxis, and walking as options, which is in line with the question's inquiry about transportation options.""
+}",84,Are there good transportation options available once I reach Reykjavik?,RELEVANT,"{'Relevance': 'RELEVANT', 'Explanation': ""The generated answer directly addresses the question, providing information about transportation options available in Reykjavik once you reach there, specifically mentioning buses, taxis, and walking as options, which is in line with the question's inquiry about transportation options.""}"
+"{'id': 150, 'question': 'What are the top two must-see attractions in Siem Reap, Cambodia based on popular reviews?'}","Based on popular reviews, the top two must-see attractions in Siem Reap, Cambodia are:
+
+1. Angkor Thom
+2. Ta Prohm","{
+  ""Relevance"": ""RELEVANT"",
+  ""Explanation"": ""The generated answer directly addresses the question, providing specific and relevant information about the top two must-see attractions in Siem Reap, Cambodia based on popular reviews. The answer matches the question's requirements, mentioning Angkor Thom and Ta Prohm as the two top attractions.""",150,"What are the top two must-see attractions in Siem Reap, Cambodia based on popular reviews?",,
+"{'id': 164, 'question': 'What are some iconic dishes I need to try while visiting Stockholm?'}","According to the local cuisine highlights, some iconic dishes you need to try while visiting Stockholm include:
+
+1. Meatballs 
+2. Herring 
+3. Swedish Meatballs 
+4. Gravlax","{
+  ""Relevance"": ""RELEVANT"",
+  ""Explanation"": ""The generated answer provides a list of iconic dishes that are specific to Stockholm, which directly answers the question and provides relevant information on what to try while visiting the city.""
+}",164,What are some iconic dishes I need to try while visiting Stockholm?,RELEVANT,"{'Relevance': 'RELEVANT', 'Explanation': 'The generated answer provides a list of iconic dishes that are specific to Stockholm, which directly answers the question and provides relevant information on what to try while visiting the city.'}"
+"{'id': 161, 'question': 'What time of the year is best to visit la paz?'}",There is no information about La Paz in the context.,"{
+  ""Relevance"": ""NON_RELEVANT"",
+  ""Explanation"": ""The generated answer is completely unrelated to the question about the best time to visit La Paz. Instead, it mentions that there is no information about La Paz in the context, which is not relevant to the question at all.""",161,What time of the year is best to visit la paz?,,
+"{'id': 87, 'question': 'Could you please provide me with information on the types of public transportation available in Kirov?'}","In Kirov, the public transportation options available are buses and taxis.","{
+  ""Relevance"": ""RELEVANT"",
+  ""Explanation"": ""The generated answer provides a clear and direct response to the question, mentioning specific public transportation options (buses and taxis) available in Kirov, which matches the request for information.""",87,Could you please provide me with information on the types of public transportation available in Kirov?,,
+"{'id': 24, 'question': 'What type of attractions can I expect to see on Waiheke Island near Auckland city?'}","Waiheke Island near Auckland city is likely to have attractions related to wine, as it is mentioned that one of the activities available in Auckland, New Zealand is ""Wine Tours"" alongside ""Waiheke Island"" as a popular attraction.","{
+  ""Relevance"": ""PARTLY_RELEVANT"",
+  ""Explanation"": ""The generated answer partially addresses the question by mentioning Waiheke Island's potential attractions, specifically wine-related activities. However, it does not provide a comprehensive answer, only indirectly referencing the type of attractions available on the island by mentioning wine tours as an activity in Auckland. A more direct answer would typically provide a list of specific attractions on Waiheke Island.""",24,What type of attractions can I expect to see on Waiheke Island near Auckland city?,,
+"{'id': 189, 'question': 'What are the best months to visit this city in South Korea?'}","The best months to visit Seoul, South Korea are April to June and September to November.","{
+""Relevance"": ""RELEVANT"",
+""Explanation"": ""The generated answer directly addresses the question, providing specific months (April to June and September to November) as the best time to visit a city in South Korea, which is Seoul. The information is relevant to travelers planning to visit the city and provides a clear answer to the question.""",189,What are the best months to visit this city in South Korea?,,
+"{'id': 129, 'question': 'What are some local dishes I should try during my visit to Auckland, New Zealand?'}","During your visit to Auckland, New Zealand, consider trying some of the local dishes, including:
+
+1. Pavlova: A popular dessert.
+2. Fish and Chips: A classic New Zealand dish.
+3. Lolly Cake: A sweet treat.
+4. Hāngī: A traditional Māori dish.
+
+These dishes are mentioned as local cuisine highlights in the context.","{
+  ""Relevance"": ""RELEVANT"",
+  ""Explanation"": ""The generated answer directly addresses the question by providing specific local dishes to try during a visit to Auckland, New Zealand, which is precisely what the question is asking for.""
+}",129,"What are some local dishes I should try during my visit to Auckland, New Zealand?",RELEVANT,"{'Relevance': 'RELEVANT', 'Explanation': 'The generated answer directly addresses the question by providing specific local dishes to try during a visit to Auckland, New Zealand, which is precisely what the question is asking for.'}"
+"{'id': 153, 'question': 'What are some popular local dishes that I should try when I visit Kinshasa?'}","When visiting Kinshasa, some popular local dishes you should try are Pondu and Moambe Chicken.","{
+  ""Relevance"": ""RELEVANT"",
+  ""Explanation"": ""The generated answer directly addresses the question by providing specific and relevant local dishes (Pondu and Moambe Chicken) that one should try when visiting Kinshasa, making it a relevant response.""",153,What are some popular local dishes that I should try when I visit Kinshasa?,,
+"{'id': 46, 'question': 'What is the most recommended thermal bath for a unique experience in Budapest?'}",The most recommended thermal bath for a unique experience in Budapest is Széchenyi.,"{
+""Relevance"": ""RELEVANT"",
+""Explanation"": ""The generated answer directly answers the question by specifying a thermal bath in Budapest, Széchenyi, which is implied to provide a unique experience. The answer is specific to the question and relevant to the context.""",46,What is the most recommended thermal bath for a unique experience in Budapest?,,
+"{'id': 20, 'question': 'What are some popular attractions near the city center of Lisbon?'}","Some popular attractions near the city center of Lisbon include Belém Tower, Alfama District, and Jerónimos Monastery.","{
+""Relevance"": ""RELEVANT"",
+""Explanation"": ""The generated answer directly addresses the question by listing specific attractions near the city center of Lisbon, which is the main topic of the question.""
+}",20,What are some popular attractions near the city center of Lisbon?,RELEVANT,"{'Relevance': 'RELEVANT', 'Explanation': 'The generated answer directly addresses the question by listing specific attractions near the city center of Lisbon, which is the main topic of the question.'}"
+"{'id': 93, 'question': 'What is the primary language spoken by locals in Helsinki?'}","Finnish, although Swedish is also spoken.","{
+  ""Relevance"": ""RELEVANT"",
+  ""Explanation"": ""The generated answer addresses the primary language spoken by locals in Helsinki, providing specific information about Finnish and Swedish, which are directly related to the question.""
+}",93,What is the primary language spoken by locals in Helsinki?,RELEVANT,"{'Relevance': 'RELEVANT', 'Explanation': 'The generated answer addresses the primary language spoken by locals in Helsinki, providing specific information about Finnish and Swedish, which are directly related to the question.'}"
+"{'id': 87, 'question': 'What are some of the natural attractions and scenic spots that I can explore in the Kirov region?'}","According to the context, natural attractions and scenic spots in the Kirov region aren't explicitly mentioned, however, it's mentioned that the region is 'known for its nature!' and offers 'Outdoors Activities.'","{
+""Relevance"": ""PARTLY_RELEVANT"",
+""Explanation"": ""Although the generated answer does not directly provide specific natural attractions and scenic spots in the Kirov region, it does provide some hints about the region's natural environment, mentioning that it is 'known for its nature' and offers 'Outdoors Activities.' This information is somewhat relevant to the question, but it does not fully answer it.""",87,What are some of the natural attractions and scenic spots that I can explore in the Kirov region?,,
+"{'id': 36, 'question': 'What are the top recommended dishes to try when visiting Reykjavik, Iceland?'}","When visiting Reykjavik, Iceland, the top recommended dishes to try are Lamb Soup and Skyr.","Here is the evaluation:
+
+{
+  ""Relevance"": ""RELEVANT"",
+  ""Explanation"": ""The generated answer directly addresses the question, providing a list of recommended dishes to try in Reykjavik, Iceland. The answer is specific, concise, and relevant to the question, making it highly relevant.""
+}",36,"What are the top recommended dishes to try when visiting Reykjavik, Iceland?",,
+"{'id': 164, 'question': 'Which time of the year is best to visit Stockholm to enjoy its stunning natural scenery?'}",The best time to visit Stockholm to enjoy its stunning natural scenery is from May to August.,"{
+  ""Relevance"": ""RELEVANT"",
+  ""Explanation"": ""The generated answer directly addresses the question of which time of the year is best to visit Stockholm to enjoy its stunning natural scenery, providing a specific time period (May to August) that supports the answer.""
+}",164,Which time of the year is best to visit Stockholm to enjoy its stunning natural scenery?,RELEVANT,"{'Relevance': 'RELEVANT', 'Explanation': 'The generated answer directly addresses the question of which time of the year is best to visit Stockholm to enjoy its stunning natural scenery, providing a specific time period (May to August) that supports the answer.'}"
+"{'id': 204, 'question': 'What months of the year are considered the best time to visit Nairobi?'}",The best months to visit Nairobi are from June to October.,"{
+  ""Relevance"": ""PARTLY_RELEVANT"",
+  ""Explanation"": ""The generated answer provides some relevant information, as it identifies a specific time period (June to October) that can be considered the best time to visit Nairobi. However, it does not exhaustively cover the entire spectrum of months, leaving out the majority of the year. A complete answer would provide a clear and comprehensive breakdown of the best and worst months to visit Nairobi.""",204,What months of the year are considered the best time to visit Nairobi?,,
+"{'id': 71, 'question': 'What cultural aspects can a visitor look forward to exploring while in Prague?'}","In Prague, visitors can look forward to exploring the following cultural aspects:
+
+1. Rich Heritage: This can be seen through the various historical sites and architecture that the city has to offer.
+2. Stunning Architecture: The Gothic style architecture in the city is particularly noteworthy.
+3. Arts Scene: This is reflected in the various cultural events that are available in the city.
+4. History: The city has a profound historical significance and offers a wealth of knowledge to interested visitors.
+
+Additionally, the following experiences will give visitors an insight into the local culture:
+- Cultural Tours
+- Historical Sites
+- Cultural Events
+- Historical Tours
+- River Cruises 
+
+Visitors can also immerse themselves in the local culture by attending cultural festivals and events held during the popular spring and summer seasons.","{
+  ""Relevance"": ""RELEVANT"",
+  ""Explanation"": ""The generated answer directly addresses the question by providing specific cultural aspects that a visitor can look forward to exploring while in Prague, including its rich heritage, stunning architecture, arts scene, and history. The answer also provides additional experiences and events that cater to visitors' interests, making it highly relevant to the question.""",71,What cultural aspects can a visitor look forward to exploring while in Prague?,,
+"{'id': 110, 'question': 'What kinds of local dishes should I definitely try during my trip to Lagos, Nigeria?'}","During your trip to Lagos, Nigeria, you should try the following local dishes:
+
+1. Jollof Rice
+2. Suya","{
+  ""Relevance"": ""RELEVANT"",
+  ""Explanation"": ""The generated answer directly addresses the question by providing specific local dishes to try during a trip to Lagos, Nigeria, which is the main focus of the question.""",110,"What kinds of local dishes should I definitely try during my trip to Lagos, Nigeria?",,
+"{'id': 106, 'question': 'What transportation options do I have available to travel within Hamilton?'}","Based on the provided context for Hamilton, Canada, the transportation options available to travel within Hamilton are:
+
+1. Buses
+2. Trains","{
+  ""Relevance"": ""RELEVANT"",
+  ""Explanation"": ""The generated answer directly addresses the question about transportation options available to travel within Hamilton, providing specific examples of buses and trains as viable options, making it a relevant response.""",106,What transportation options do I have available to travel within Hamilton?,,
+"{'id': 205, 'question': 'When is the best time to visit Lima to get the most out of my trip?'}",The best time to visit Lima to get the most out of your trip is during April to October or specifically May to October.,"{
+  ""Relevance"": ""RELEVANT"",
+  ""Explanation"": ""The generated answer is highly relevant to the question as it specifically provides information about the best time to visit Lima to get the most out of a trip, which is the key aspect of the question.""
+}",205,When is the best time to visit Lima to get the most out of my trip?,RELEVANT,"{'Relevance': 'RELEVANT', 'Explanation': 'The generated answer is highly relevant to the question as it specifically provides information about the best time to visit Lima to get the most out of a trip, which is the key aspect of the question.'}"
+"{'id': 18, 'question': 'What are some popular things to see and do while visiting Amsterdam?'}","Some popular things to see and do while visiting Amsterdam include:
+
+- Exploring the picturesque canals by bike or on a boat tour
+- Visiting popular attractions such as the Van Gogh Museum, Anne Frank House, and Rijksmuseum
+- Taking part in cultural tours and outdoor activities, such as cycling tours
+- Sampling local cuisine highlights, including Haring and Stroopwafels","{
+  ""Relevance"": ""RELEVANT"",
+  ""Explanation"": ""The generated answer directly addresses the question by providing popular things to see and do while visiting Amsterdam, including specific attractions and activities, which is in line with the question's scope.""
+}",18,What are some popular things to see and do while visiting Amsterdam?,RELEVANT,"{'Relevance': 'RELEVANT', 'Explanation': ""The generated answer directly addresses the question by providing popular things to see and do while visiting Amsterdam, including specific attractions and activities, which is in line with the question's scope.""}"
+"{'id': 14, 'question': 'What are the best months to visit Singapore for favorable weather?'}","According to the exercises database, the best months to visit Singapore for favorable weather are: 
+
+- February to December 
+- Alternatively, February to April and September to November.","{
+  ""Relevance"": ""RELEVANT"",
+  ""Explanation"": ""The generated answer directly addresses the question by providing the best months to visit Singapore for favorable weather, which is the main objective of the question.""
+}",14,What are the best months to visit Singapore for favorable weather?,RELEVANT,"{'Relevance': 'RELEVANT', 'Explanation': 'The generated answer directly addresses the question by providing the best months to visit Singapore for favorable weather, which is the main objective of the question.'}"
+"{'id': 49, 'question': 'What are some recommended activities available for beach lovers like me in the Dar Es Salaam area?'}","Unfortunately, there's no data available in the provided context for Dar Es Salaam. The data only includes information for the destinations: Split, Croatia; Batumi, Georgia; Chennai, India; and Accra, Ghana. 
+
+However, if you're interested in knowing about beach activities in general based on the provided information, some destinations that have beach activities available include Split, Croatia; Batumi, Georgia; Chennai, India; and Accra, Ghana.","{
+  ""Relevance"": ""NON_RELEVANT"",
+  ""Explanation"": ""The generated answer does not provide information about recommended activities for beach lovers in the Dar Es Salaam area, which is the specific context requested. Although the answer mentions the existence of beach activities in general, it only provides information about destinations that are not relevant to the question, excluding Dar Es Salaam.""",49,What are some recommended activities available for beach lovers like me in the Dar Es Salaam area?,,
+"{'id': 69, 'question': 'What are some must-try dishes that can be found in the local cuisine of Athens?'}",Some must-try dishes in the local cuisine of Athens are Moussaka and Souvlaki.,"{
+  ""Relevance"": ""RELEVANT"",
+  ""Explanation"": ""The generated answer specifically mentions local cuisine of Athens and lists two dishes that are commonly associated with Greek cuisine, which is relevant to the question.""
+}",69,What are some must-try dishes that can be found in the local cuisine of Athens?,RELEVANT,"{'Relevance': 'RELEVANT', 'Explanation': 'The generated answer specifically mentions local cuisine of Athens and lists two dishes that are commonly associated with Greek cuisine, which is relevant to the question.'}"
+"{'id': 210, 'question': 'What types of public transportation are available to get around Harare?'}","According to the context, the public transportation options available to get around Harare are:
+
+1. Buses
+2. Taxis","{
+  ""Relevance"": ""RELEVANT"",
+  ""Explanation"": ""The generated answer provides specific public transportation options available in Harare, directly addressing the question of what types of public transportation are available to get around the city.""
+}",210,What types of public transportation are available to get around Harare?,RELEVANT,"{'Relevance': 'RELEVANT', 'Explanation': 'The generated answer provides specific public transportation options available in Harare, directly addressing the question of what types of public transportation are available to get around the city.'}"
+"{'id': 145, 'question': ""What are some attractions that I should consider visiting when in Zimbabwe's capital city?""}","In Zimbabwe's capital city, Harare, you should consider visiting the National Gallery and the Harare Gardens.","{
+  ""Relevance"": ""RELEVANT"",
+  ""Explanation"": ""The generated answer directly addresses the question by providing two specific attractions in Harare, Zimbabwe's capital city, which is what the question is asking for.""
+}",145,What are some attractions that I should consider visiting when in Zimbabwe's capital city?,RELEVANT,"{'Relevance': 'RELEVANT', 'Explanation': ""The generated answer directly addresses the question by providing two specific attractions in Harare, Zimbabwe's capital city, which is what the question is asking for.""}"
+"{'id': 89, 'question': 'What types of food are typically served in the local cuisine of the city of Lima, Peru?'}","In Lima, Peru, the types of food that are typically served in the local cuisine include Ceviche, Anticuchos, and Lomo Saltado.","{
+  ""Relevance"": ""RELEVANT"",
+  ""Explanation"": ""The generated answer accurately addresses the question about the types of food typically served in the local cuisine of Lima, Peru. It provides specific examples of dishes, Ceviche, Anticuchos, and Lomo Saltado, which are relevant to the question and demonstrate knowledge of Peruvian cuisine.""
+}",89,"What types of food are typically served in the local cuisine of the city of Lima, Peru?",RELEVANT,"{'Relevance': 'RELEVANT', 'Explanation': 'The generated answer accurately addresses the question about the types of food typically served in the local cuisine of Lima, Peru. It provides specific examples of dishes, Ceviche, Anticuchos, and Lomo Saltado, which are relevant to the question and demonstrate knowledge of Peruvian cuisine.'}"
+"{'id': 172, 'question': 'Can you recommend any cultural activities to participate in?'}","For Nuuk, Greenland, I recommend visiting the National Museum or the Greenlandic Cultural Centre to experience the unique culture of the Inuit people. 
+
+Additionally, consider taking a cultural tour to learn more about the local customs and traditions.","{
+  ""Relevance"": ""RELEVANT"",
+  ""Explanation"": ""The generated answer directly addresses the question of recommending cultural activities to participate in, specifically mentioning the National Museum and the Greenlandic Cultural Centre in Nuuk, Greenland, which aligns with the question's prompt.""
+}",172,Can you recommend any cultural activities to participate in?,RELEVANT,"{'Relevance': 'RELEVANT', 'Explanation': ""The generated answer directly addresses the question of recommending cultural activities to participate in, specifically mentioning the National Museum and the Greenlandic Cultural Centre in Nuuk, Greenland, which aligns with the question's prompt.""}"
+"{'id': 55, 'question': 'What local organizations or attractions in this destination are committed to wildlife conservation and how can tourists get involved?'}","In Nairobi, Kenya, local organizations committed to wildlife conservation include the David Sheldrick Wildlife Trust and the Giraffe Centre. The David Sheldrick Wildlife Trust is a popular attraction and a sanctuary for elephant orphans, while the Giraffe Centre is dedicated to the conservation of Rothschild's giraffes.
+
+Tourists can get involved in various ways:
+
+1. Visit the David Sheldrick Wildlife Trust and witness the conservation efforts firsthand. You can also adopt an elephant orphan for a year and receive updates on their progress.
+
+2. Feed the giraffes and take photos at the Giraffe Centre. This unique experience allows you to interact with Rothschild's giraffes and support conservation efforts.
+
+3. Take a wildlife safari in the Nairobi National Park, which is also committed to conservation. By going on a safari, you are supporting conservation efforts and contributing to the protection of wildlife and their habitats.
+
+By visiting these organizations and participating in conservation efforts, tourists can make a positive impact on wildlife conservation in Nairobi, Kenya.","Here is the evaluation:
+
+{
+""Relevance"": ""RELEVANT"",
+""Explanation"": ""The generated answer directly addresses the question by providing specific local organizations in Nairobi, Kenya, that are committed to wildlife conservation, and it also provides details on how tourists can get involved by visiting these organizations, participating in conservation efforts, and supporting wildlife conservation in the region.""
+}",55,What local organizations or attractions in this destination are committed to wildlife conservation and how can tourists get involved?,,
+"{'id': 2, 'question': 'Can you recommend the best months of the year to travel to my destination?'}","Based on your destination, Copenhagen, Denmark, the best months to visit are May to September. This time period is recommended for the best experience, as mentioned in the travel tip to ""Visit during the summer for the best experience.""","{
+  ""Relevance"": ""RELEVANT"",
+  ""Explanation"": ""The generated answer directly addresses the question, recommending the best months to travel to Copenhagen, Denmark, which aligns with the question's intent to provide information on the best time to travel to a specific destination.""",2,Can you recommend the best months of the year to travel to my destination?,,
+"{'id': 194, 'question': 'What months of the year are best for visiting Split to enjoy the beach?'}","The best months for visiting Split, Croatia to enjoy the beach are June to September.","{
+  ""Relevance"": ""RELEVANT"",
+  ""Explanation"": ""The generated answer directly addresses the question and provides specific information about the best months to visit Split to enjoy the beach, which is a crucial aspect of the question.""",194,What months of the year are best for visiting Split to enjoy the beach?,,
+"{'id': 34, 'question': 'What is the best method to fully appreciate the historic center in Quito?'}",The best method to fully appreciate the historic center in Quito is to take a guided tour to learn the history. This will allow you to gain a deeper understanding and appreciation of the area.,"{
+  ""Relevance"": ""RELEVANT"",
+  ""Explanation"": ""The generated answer directly addresses the question, providing a specific method for fully appreciating the historic center in Quito, which is a guided tour. This answer is relevant to the question and provides a clear and useful suggestion.""",34,What is the best method to fully appreciate the historic center in Quito?,,
+"{'id': 187, 'question': 'What are the popular palaces and historical sites that I can expect to visit in Jaipur?'}","Based on the context, in Jaipur, you can expect to visit Hawa Mahal and Amer Fort as they are listed as popular attractions.","{
+  ""Relevance"": ""RELEVANT"",
+  ""Explanation"": ""The generated answer provides specific examples of popular palaces and historical sites that can be visited in Jaipur, aligning with the question's focus on popular attractions in the city.""
+}",187,What are the popular palaces and historical sites that I can expect to visit in Jaipur?,RELEVANT,"{'Relevance': 'RELEVANT', 'Explanation': ""The generated answer provides specific examples of popular palaces and historical sites that can be visited in Jaipur, aligning with the question's focus on popular attractions in the city.""}"
+"{'id': 209, 'question': 'What local dish containing fava beans should I not miss trying in Khartoum?'}","You should not miss trying Ful Medames, a local dish containing fava beans, when visiting Khartoum.","{
+  ""Relevance"": ""RELEVANT"",
+  ""Explanation"": ""The generated answer directly addresses the question, answering what local dish containing fava beans the person should not miss trying in Khartoum. The answer provides a specific and relevant recommendation (Ful Medames) that is closely related to the topic of the question.""",209,What local dish containing fava beans should I not miss trying in Khartoum?,,
+"{'id': 156, 'question': 'What are some of the unique South African dishes I should try when visiting Cape Town?'}","Based on the provided context, there is no information about South African dishes to try when visiting Cape Town. The context only provides information about destinations in Tbilisi, Georgia, and Seoul, South Korea, but not Cape Town.","{
+  ""Relevance"": ""NON_RELEVANT"",
+  ""Explanation"": ""The generated answer mentions destinations in Tbilisi, Georgia, and Seoul, South Korea, but does not provide information about South African dishes to try when visiting Cape Town, making it non-relevant to the question.""",156,What are some of the unique South African dishes I should try when visiting Cape Town?,,
+"{'id': 152, 'question': 'What types of activities are available for tourists to enjoy in Helsinki?'}",There is no information about Helsinki in the provided CONTEXT.,"{
+  ""Relevance"": ""NON_RELEVANT"",
+  ""Explanation"": ""The generated answer is completely unrelated to the question, as it provides no information about Helsinki or its activities for tourists.""",152,What types of activities are available for tourists to enjoy in Helsinki?,,
+"{'id': 162, 'question': 'What time of year can I witness the famous cherry blossom season in my desired destination?'}","You can witness the famous cherry blossom season in Tokyo, Japan, from March to May.","{
+  ""Relevance"": ""RELEVANT"",
+  ""Explanation"": ""The generated answer directly addresses the question by providing a specific time period and location for witnessing the famous cherry blossom season, which is a factual and relevant piece of information in response to the query.""",162,What time of year can I witness the famous cherry blossom season in my desired destination?,,
+"{'id': 30, 'question': 'What are the top recommendations for must-see places in Oslo?'}","Based on the context, the top recommendations for must-see places in Oslo include:
+
+1. Vigeland Park
+2. Oslo Opera House","{
+  ""Relevance"": ""PARTLY_RELEVANT"",
+  ""Explanation"": ""The generated answer provides two specific recommendations for must-see places in Oslo, which are related to the question. However, the scope of the answer is limited to only two places, whereas the question asks for top recommendations. The answer does not comprehensively cover all must-see places in Oslo, making it PARTLY_RELEVANT.""",30,What are the top recommendations for must-see places in Oslo?,,
+"{'id': 62, 'question': 'What are the recommended months to visit Zanzibar for ideal weather conditions?'}","Based on the context provided, the recommended months to visit Zanzibar for ideal weather conditions are June to October.","{
+  ""Relevance"": ""RELEVANT"",
+  ""Explanation"": ""The generated answer directly addresses the question about the recommended months to visit Zanzibar for ideal weather conditions, providing a specific time frame (June to October) that is relevant to the inquiry.""
+}",62,What are the recommended months to visit Zanzibar for ideal weather conditions?,RELEVANT,"{'Relevance': 'RELEVANT', 'Explanation': 'The generated answer directly addresses the question about the recommended months to visit Zanzibar for ideal weather conditions, providing a specific time frame (June to October) that is relevant to the inquiry.'}"
+"{'id': 210, 'question': 'What time of year should I plan my trip to Harare to have the best experience?'}","The best time to plan your trip to Harare for the best experience is from May to October, although one source recommends visiting as late as September (from May to September). This will likely provide ideal conditions for outdoor activities and cultural events.","{
+  ""Relevance"": ""RELEVANT"",
+  ""Explanation"": ""The answer directly addresses the question about the best time to plan a trip to Harare and provides specific information on the ideal time of year for outdoor activities and cultural events, which are relevant to the question.""
+}",210,What time of year should I plan my trip to Harare to have the best experience?,RELEVANT,"{'Relevance': 'RELEVANT', 'Explanation': 'The answer directly addresses the question about the best time to plan a trip to Harare and provides specific information on the ideal time of year for outdoor activities and cultural events, which are relevant to the question.'}"
+"{'id': 53, 'question': 'What kinds of tours can I go on to learn more about the city and its culture?'}","You can go on the following types of tours to learn more about the city and its culture: 
+
+In New York: City Tours 
+In Shanghai, China: City Tours and Cultural Shows 
+In Wellington, New Zealand: Cultural Tours 
+In Rome, Italy: Historical Tours and Cooking Classes 
+In London, England: Museum Tours","{
+  ""Relevance"": ""RELEVANT"",
+  ""Explanation"": ""The generated answer directly addresses the question by providing specific examples of tour types that can help learn more about the city and its culture. The answer is relevant because it provides concrete and relevant information that answers the question, without being too broad or too narrow.""",53,What kinds of tours can I go on to learn more about the city and its culture?,,
+"{'id': 132, 'question': 'What are the popular transportation options in Dhaka, Bangladesh?'}","In Dhaka, Bangladesh, the popular transportation options are buses and rickshaws.","{
+  ""Relevance"": ""RELEVANT"",
+  ""Explanation"": ""The generated answer directly addresses the question about popular transportation options in Dhaka, Bangladesh, and provides a clear and concise list of options, which is the expected output for this type of question.""
+}",132,"What are the popular transportation options in Dhaka, Bangladesh?",RELEVANT,"{'Relevance': 'RELEVANT', 'Explanation': 'The generated answer directly addresses the question about popular transportation options in Dhaka, Bangladesh, and provides a clear and concise list of options, which is the expected output for this type of question.'}"
+"{'id': 49, 'question': 'Can you tell me about some of the traditional Tanzanian dishes that I can try in Dar Es Salaam?'}","Unfortunately, there is no information in the context provided about traditional Tanzanian dishes or Dar Es Salaam. The context only includes information about destinations such as Los Angeles, Cape Town, Accra, London, and Naples. Dar Es Salaam is not mentioned in the provided context.","{
+""Relevance"": ""NON_RELEVANT"",
+""Explanation"": ""The generated answer states that there is no information in the context provided about traditional Tanzanian dishes or Dar Es Salaam, which is correct. However, the context information provided does not support the generation of a relevant answer to the question.""",49,Can you tell me about some of the traditional Tanzanian dishes that I can try in Dar Es Salaam?,,
+"{'id': 25, 'question': 'What is the most ideal period to visit Honolulu to avoid the crowds?'}","To avoid the crowds in Honolulu, consider visiting from April to October, which is less crowded compared to the most popular time of December to April.","{
+  ""Relevance"": ""RELEVANT"",
+  ""Explanation"": ""The generated answer provides a specific time period to visit Honolulu to avoid crowds, which is directly related to the question's inquiry about the most ideal period to visit.""
+}",25,What is the most ideal period to visit Honolulu to avoid the crowds?,RELEVANT,"{'Relevance': 'RELEVANT', 'Explanation': ""The generated answer provides a specific time period to visit Honolulu to avoid crowds, which is directly related to the question's inquiry about the most ideal period to visit.""}"
+"{'id': 86, 'question': 'What are the local must-try dishes that I should look out for in Casablanca?'}","In Casablanca, the local must-try dishes that you should look out for are Tagine and Couscous.","{
+  ""Relevance"": ""RELEVANT"",
+  ""Explanation"": ""The generated answer directly addresses the question by providing the names of local must-try dishes in Casablanca. The answer is specific, concise, and related to the topic, making it highly relevant to the question.""",86,What are the local must-try dishes that I should look out for in Casablanca?,,
+"{'id': 123, 'question': 'What are the must-see places for outdoor activities and cultural exploration in Bogota?'}","For outdoor activities and cultural exploration in Bogota, some must-see places include:
+
+- Monserrate: a popular attraction for outdoor activities and breathtaking views
+- La Candelaria: a neighborhood rich in history and vibrant culture
+- The Gold Museum (mentioned in the user review): a cultural attraction that showcases the rich history of Colombia
+
+Additionally, consider exploring the surrounding areas on weekends for local events and trying the local cuisine, such as Arepas and Ajiaco.","{
+  ""Relevance"": ""RELEVANT"",
+  ""Explanation"": ""The generated answer provides a list of specific places in Bogota for outdoor activities (Monserrate) and cultural exploration (La Candelaria and the Gold Museum), directly addressing the question's criteria.""",123,What are the must-see places for outdoor activities and cultural exploration in Bogota?,,
+"{'id': 117, 'question': 'What are some local Mumbai street foods that I should try during my visit?'}","During your visit to Mumbai, some local street foods you should try include Vada Pav and Bhel Puri.","{
+  ""Relevance"": ""RELEVANT"",
+  ""Explanation"": ""The generated answer directly addresses the question by providing specific suggestions of local street foods that the visitor should try in Mumbai, matching the context of the question.""",117,What are some local Mumbai street foods that I should try during my visit?,,
+"{'id': 139, 'question': 'What is the weather like during the best time to visit Batumi?'}","The best time to visit Batumi is from June to September. According to the context, it is advised to 'Visit during summer for beach activities.' This suggests that the weather during this time is suitable for beach activities, likely being warm and sunny, typical of a summer season.","{
+  ""Relevance"": ""RELEVANT"",
+  ""Explanation"": ""The generated answer directly addresses the question by providing information on the best time to visit Batumi and the suggested context for weather conditions, which is suitable for beach activities, implying warm and sunny weather.""
+}",139,What is the weather like during the best time to visit Batumi?,RELEVANT,"{'Relevance': 'RELEVANT', 'Explanation': 'The generated answer directly addresses the question by providing information on the best time to visit Batumi and the suggested context for weather conditions, which is suitable for beach activities, implying warm and sunny weather.'}"
+"{'id': 205, 'question': 'What are some highly recommended local dishes I should try while in Lima?'}","Some highly recommended local dishes to try while in Lima are: 
+
+1. Ceviche: It is one of the most popular local dishes that you can try by the beach or at a local restaurant. 
+2. Lomo Saltado: It's another popular dish, mentioned in multiple reviews as a highlight of the local cuisine. 
+3. Anticuchos: These are also mentioned in one of the reviews as a local highlight.","{
+  ""Relevance"": ""RELEVANT"",
+  ""Explanation"": ""The generated answer directly addresses the question, providing three highly recommended local dishes to try while in Lima, which is in line with the question's query.""",205,What are some highly recommended local dishes I should try while in Lima?,,
+"{'id': 40, 'question': 'What is the best way to get a deeper understanding of the pyramids and historical sites in Cairo?'}","To get a deeper understanding of the pyramids and historical sites in Cairo, take a Cultural Tour. This activity is available in Cairo and is one of the best ways to gain more insight into the historical significance of the sites.","{
+  ""Relevance"": ""RELEVANT"",
+  ""Explanation"": ""The generated answer directly answers the question by providing a specific way to gain a deeper understanding of the pyramids and historical sites in Cairo, which is taking a Cultural Tour. The answer is straightforward, accurate, and relevant to the topic.""",40,What is the best way to get a deeper understanding of the pyramids and historical sites in Cairo?,,
+"{'id': 41, 'question': 'What is the best way for me to get around the city of Casablanca?'}","You have several options for getting around Casablanca, including Trams, Buses, and Taxis. No single option is highlighted as the best, but considering the options available, taking a Tram might be a good choice for you as it tends to be a more reliable and efficient mode of transportation in many cities.","{
+  ""Relevance"": ""RELEVANT"",
+  ""Explanation"": ""The generated answer directly addresses the question about the best way to get around Casablanca, providing multiple options and a recommendation for traveling by tram due to its reliability and efficiency.""
+}",41,What is the best way for me to get around the city of Casablanca?,RELEVANT,"{'Relevance': 'RELEVANT', 'Explanation': 'The generated answer directly addresses the question about the best way to get around Casablanca, providing multiple options and a recommendation for traveling by tram due to its reliability and efficiency.'}"
+"{'id': 21, 'question': 'What are some popular events or activities that can be enjoyed on the rivers of Prague?'}","Based on the provided context, some popular events or activities that can be enjoyed on the rivers of Prague are:
+
+1. River Cruises - mentioned in two of the entries for Prague, indicating it's a popular activity.
+ 
+No specific events are mentioned in the context as being held on the rivers, but Cultural Events are mentioned for the destination Prague, which could include events on the rivers.","{
+  ""Relevance"": ""PARTLY_RELEVANT"",
+  ""Explanation"": ""The generated answer partially addresses the question by mentioning river cruises as a popular activity that can be enjoyed on the rivers of Prague. However, it does not provide specific events that can be enjoyed on the rivers, which is what the question is asking for.""
+}",21,What are some popular events or activities that can be enjoyed on the rivers of Prague?,PARTLY_RELEVANT,"{'Relevance': 'PARTLY_RELEVANT', 'Explanation': 'The generated answer partially addresses the question by mentioning river cruises as a popular activity that can be enjoyed on the rivers of Prague. However, it does not provide specific events that can be enjoyed on the rivers, which is what the question is asking for.'}"
+"{'id': 28, 'question': 'What are some popular attractions to visit in Copenhagen, Denmark?'}","Based on the context, popular attractions to visit in Copenhagen, Denmark are:
+
+1. Nyhavn
+2. The Little Mermaid
+3. Tivoli Gardens","{
+  ""Relevance"": ""RELEVANT"",
+  ""Explanation"": ""The generated answer provides a list of specific attractions to visit in Copenhagen, Denmark, which is directly related to the question. The answer includes well-known and popular attractions in the city, making it a relevant response to the question.""
+}",28,"What are some popular attractions to visit in Copenhagen, Denmark?",RELEVANT,"{'Relevance': 'RELEVANT', 'Explanation': 'The generated answer provides a list of specific attractions to visit in Copenhagen, Denmark, which is directly related to the question. The answer includes well-known and popular attractions in the city, making it a relevant response to the question.'}"
+"{'id': 189, 'question': ""What is the name of the palace that is one of the city's most popular tourist attractions?""}","Based on the given context, the question about a palace is likely referring to either Casablanca, Morocco (Royal Palace) or Seoul, South Korea (Gyeongbokgung Palace). However, since it's described as one of the ""city's most popular tourist attractions"" and this phrase is not present in Casablanca's context but rather Casablanca's context only mentions ""Hassan II Mosque"", it can be inferred that the context for Seoul is the one with this information for a palace, making the Royal Palace not the answer.
+
+Therefore, based on the information provided, the name of the palace is Gyeongbokgung Palace in Seoul, South Korea.","{
+  ""Relevance"": ""PARTLY_RELEVANT"",
+  ""Explanation"": ""The generated answer partially addresses the question by attempting to identify the type of palace being referred to, but does not directly answer what the name of the palace is. It starts by providing multiple options, but then incorrectly concludes that the palace is Gyeongbokgung Palace in Seoul, South Korea. The answer is partly relevant as it addresses the question, but the conclusion is incorrect and sidetracks the true answer.""",189,What is the name of the palace that is one of the city's most popular tourist attractions?,,
+"{'id': 31, 'question': 'What languages are predominantly spoken in Dubai and are there any cultural events not to be missed?'}","In Dubai, the predominantly spoken languages are Arabic and English. 
+
+Some cultural events not to be missed in Dubai include the cultural events and exhibitions often held at popular attractions such as the Dubai Mall or through activities like desert safaris. However, the information about specific cultural events in Dubai is limited.","Here is my evaluation:
+
+{
+  ""Relevance"": ""RELEVANT"",
+  ""Explanation"": ""The generated answer directly addresses the question, providing information about the languages spoken in Dubai. It also partially addresses the second part of the question by mentioning cultural events and activities, although it does not provide specific event details.""",31,What languages are predominantly spoken in Dubai and are there any cultural events not to be missed?,,
+"{'id': 206, 'question': 'What are the local specialties for street food or snacks?'}","In Hanoi, Vietnam, the local specialties for street food or snacks include Pho and Bánh Mì.","{
+  ""Relevance"": ""RELEVANT"",
+  ""Explanation"": ""The generated answer directly answers the question, providing examples of local specialties for street food or snacks in Hanoi, Vietnam.""
+}",206,What are the local specialties for street food or snacks?,RELEVANT,"{'Relevance': 'RELEVANT', 'Explanation': 'The generated answer directly answers the question, providing examples of local specialties for street food or snacks in Hanoi, Vietnam.'}"
+"{'id': 147, 'question': ""What foods should I try when I'm in the city for a taste of local cuisine?""}",You should try Bagels and Cheesecake for a taste of local cuisine in New York.,"{
+  ""Relevance"": ""PARTLY_RELEVANT"",
+  ""Explanation"": ""The generated answer is partly relevant because it mentions trying local cuisine in a city (New York), but it only highlights two specific foods (Bagels and Cheesecake) without providing a comprehensive answer to the question. A more relevant answer would have listed a variety of local dishes or taken into account the type of local cuisine commonly found in the city.""",147,What foods should I try when I'm in the city for a taste of local cuisine?,,
+"{'id': 149, 'question': 'Is there a specific month range recommended for traveling to Nairobi?'}","Yes, the recommended month range for traveling to Nairobi is June to October. This is consistently stated across multiple exercises in the database.","{
+  ""Relevance"": ""RELEVANT"",
+  ""Explanation"": ""The generated answer directly answers the question, providing a specific month range recommended for traveling to Nairobi, which is a relevant and valuable piece of information""",149,Is there a specific month range recommended for traveling to Nairobi?,,
+"{'id': 120, 'question': ""I heard that there's a famous market in the city, can you recommend a specific market to visit for local crafts and shopping?""}","Unfortunately, the context doesn't provide specific information for the current destination, which is 'New York'. The information about the context of 'New York' is brief and doesn't mention any markets, but it does refer to 'Times Square' as one of the popular attractions.","{
+""Relevance"": ""PARTLY_RELEVANT"",
+""Explanation"": ""The generated answer acknowledges the lack of specific information about the current destination and doesn't directly answer the question about a specific market for local crafts and shopping. However, it does provide some general information about the context, mentioning 'Times Square' as a popular attraction, which is somewhat related to the question. The answer is not entirely irrelevant, as it could be used as a starting point for further research or guidance, but it doesn't directly answer the question as asked.""",120,"I heard that there's a famous market in the city, can you recommend a specific market to visit for local crafts and shopping?",,
+"{'id': 41, 'question': 'What are some of the cultural highlights that I can experience in Casablanca?'}","Some cultural highlights you can experience in Casablanca include:
+
+1. Rich Heritage (mentioned in two entries)
+2. Art
+3. Islamic Architecture
+4. Berber Culture
+5. Coastal City experience","{
+  ""Relevance"": ""RELEVANT"",
+  ""Explanation"": ""The generated answer provides a list of cultural highlights that one can experience in Casablanca, which directly addresses the question. The answer mentions specific aspects such as Rich Heritage, Art, Islamic Architecture, Berber Culture, and Coastal City experience, which are relevant to the cultural highlights of the city.""",41,What are some of the cultural highlights that I can experience in Casablanca?,,
+"{'id': 147, 'question': ""What kind of events and tours can I participate in when I'm in the city?""}","For New York, USA, you can participate in Broadway Shows, and City Tours. 
+
+For Shanghai, China, you can participate in City Tours and Cultural Shows. 
+
+For Los Angeles, USA, you can participate in Cultural Events and Outdoor Activities.
+
+For Bangalore, India, you can participate in Tech Tours and Cultural Festivals.
+
+For Cincinnati, USA, you can participate in Cultural Events and Food Tours.
+
+Note: Since you did not specify a city in the question, I have provided the available events and tours for all the cities in the given context.","{
+""Relevance"": ""RELEVANT"",
+""Explanation"": ""The generated answer directly addresses the question by providing specific information about the type of events and tours available in different cities, which is directly related to the question's query about participating in such events and tours.""",147,What kind of events and tours can I participate in when I'm in the city?,,
+"{'id': 111, 'question': 'How do I get around the city, and are there any options available for water travel?'}","The question doesn't specify the city. However, based on the provided context, the following cities have options for water travel: 
+
+1. Shanghai, China - You can take a cruise for stunning skyline views or use the city's ferries (not mentioned as common transportation option but mentioned in one travel tip).
+2. Zanzibar, Tanzania - You can use ferries as one of the transportation options.
+3. Wellington, New Zealand - Ferries are one of the city's transportation options.
+
+Other transportation options vary across the cities but generally include public transit (バス, buses, metro, subway) and taxis.","{
+  ""Relevance"": ""PARTLY_RELEVANT"",
+  ""Explanation"": ""The generated answer addresses the second part of the question, which is about available options for water travel. However, it doesn't provide a general answer for 'getting around the city' and only focuses on a few specific cities. Therefore, the relevance of the answer is PARTLY_RELEVANT, as it partially answers the question but doesn't cover all aspects of transportation in the city.""
+}",111,"How do I get around the city, and are there any options available for water travel?",PARTLY_RELEVANT,"{'Relevance': 'PARTLY_RELEVANT', 'Explanation': ""The generated answer addresses the second part of the question, which is about available options for water travel. However, it doesn't provide a general answer for 'getting around the city' and only focuses on a few specific cities. Therefore, the relevance of the answer is PARTLY_RELEVANT, as it partially answers the question but doesn't cover all aspects of transportation in the city.""}"
+"{'id': 150, 'question': 'Are there any specific months in the year that are considered the best time to plan a visit to Siem Reap?'}",There is no information about Siem Reap in the provided context.,"{
+ ""Relevance"": ""NON_RELEVANT"",
+ ""Explanation"": ""The generated answer does not provide any information about Siem Reap, which is the topic of the question. Instead, it claims that there is no information about Siem Reap in the provided context, which is not relevant to the question about the best time to plan a visit.""",150,Are there any specific months in the year that are considered the best time to plan a visit to Siem Reap?,,
+"{'id': 109, 'question': 'What are some popular attractions to visit while exploring Dhaka?'}","Some popular attractions to visit while exploring Dhaka include Lalbagh Fort, Liberation War Museum, and Ahsan Manzil.","{
+""Relevance"": ""RELEVANT"",
+""Explanation"": ""The generated answer provides specific and relevant information about popular attractions to visit while exploring Dhaka, directly addressing the question's inquiry about attractions to visit in the city.""",109,What are some popular attractions to visit while exploring Dhaka?,,
+"{'id': 63, 'question': 'What are the exact geographical coordinates for Bermuda that I can enter into my GPS?'}","The exact geographical coordinates for Bermuda that you can enter into your GPS are: 
+
+32.3078° N, -64.7505° W.","{
+  ""Relevance"": ""RELEVANT"",
+  ""Explanation"": ""The generated answer provides the exact geographical coordinates for Bermuda that the question asks for, which can be entered into a GPS device, making it a direct and relevant response.""",63,What are the exact geographical coordinates for Bermuda that I can enter into my GPS?,,
+"{'id': 39, 'question': 'Which time of the year is ideal to plan a trip to Moscow, Russia?'}","The ideal time to plan a trip to Moscow, Russia is May to September.","{
+  ""Relevance"": ""RELEVANT"",
+  ""Explanation"": ""The generated answer directly addresses the question, providing a specific time frame (May to September) as the ideal period to plan a trip to Moscow, Russia, which is what the question is asking.""",39,"Which time of the year is ideal to plan a trip to Moscow, Russia?",,
+"{'id': 160, 'question': ""I'm planning a trip to Tunis and I want to make the most of it. When is the best time to visit this destination, considering factors that influence travel such as weather?""}","The best time to visit Tunis is from April to October, or alternatively, from March to May or September to November, considering the desired weather conditions.","{
+""Relevance"": ""RELEVANT"",
+""Explanation"": ""The generated answer provides information about the best time to visit Tunis based on weather conditions, which is directly related to the question's inquiry.""",160,"I'm planning a trip to Tunis and I want to make the most of it. When is the best time to visit this destination, considering factors that influence travel such as weather?",,
+"{'id': 79, 'question': 'What local dishes should I try to experience the authentic taste of the area?'}","Since the destination is not specified in the question, I will provide answers for each of the destinations in the context.
+
+To experience the authentic taste of the area in:
+
+- Mumbai, India: You should try Vada Pav and Biryani.
+- Seoul, South Korea: You should try Kimchi and BBQ.
+- Copenhagen, Denmark: You should try Smørrebrød and Danish Pastry.
+- Maputo, Mozambique: You should try Piri Piri Chicken and Matapa.","{
+  ""Relevance"": ""RELEVANT"",
+  ""Explanation"": ""The generated answer directly addresses the question by providing local dishes to try in different destinations, providing information on the authentic taste of the area, as requested.""
+}",79,What local dishes should I try to experience the authentic taste of the area?,RELEVANT,"{'Relevance': 'RELEVANT', 'Explanation': 'The generated answer directly addresses the question by providing local dishes to try in different destinations, providing information on the authentic taste of the area, as requested.'}"
+"{'id': 151, 'question': 'What type of activities can I expect to be available when I visit Ankara, Turkey?'}","When visiting Ankara, Turkey, you can expect the following types of activities to be available: 
+
+1. Historical Tours 
+2. Cultural Tours 
+3. Cultural Events 
+4. Historical Sites 
+
+These activities will help you learn about Turkey's rich history and culture.","{
+  ""Relevance"": ""RELEVANT"",
+  ""Explanation"": ""The generated answer provides a direct response to the question by listing specific types of activities one can expect to be available when visiting Ankara, Turkey, which is in line with the question's expectation.""
+}",151,"What type of activities can I expect to be available when I visit Ankara, Turkey?",RELEVANT,"{'Relevance': 'RELEVANT', 'Explanation': ""The generated answer provides a direct response to the question by listing specific types of activities one can expect to be available when visiting Ankara, Turkey, which is in line with the question's expectation.""}"
+"{'id': 105, 'question': 'What are the most famous traditional dishes in Tbilisi, Georgia?'}","The most famous traditional dishes in Tbilisi, Georgia are:
+
+1. Khinkali
+2. Khachapuri
+
+These traditional dishes are consistently highlighted in the provided context as local cuisine highlights in Tbilisi, Georgia.","{
+  ""Relevance"": ""RELEVANT"",
+  ""Explanation"": ""The generated answer directly addresses the question by providing an exhaustive list of the most famous traditional dishes in Tbilisi, Georgia, which includes Khinkali and Khachapuri. The answer is both complete and precise, matching the context of the question and providing the requested information.""",105,"What are the most famous traditional dishes in Tbilisi, Georgia?",,
+"{'id': 32, 'question': 'Can I get by with only speaking English during my trip?'}","Yes, you can get by with only speaking English during your trip to Sydney, as the language spoken is English.","{
+""Relevance"": ""PARTLY_RELEVANT"",
+""Explanation"": ""The generated answer is partially relevant to the question because it does address the feasibility of getting by with only speaking English during the trip. However, it focuses specifically on Sydney, which is not explicitly mentioned in the question, and therefore is not entirely relevant.""",32,Can I get by with only speaking English during my trip?,,
+"{'id': 178, 'question': 'What are the most popular outdoor activities that I can do in Vladivostok, Russia?'}","The most popular outdoor activities that you can do in Vladivostok, Russia were not explicitly listed in the context provided. However, since ""Outdoors Activities"" is listed under ""activities_available"" for Vladivostok, and considering the destination's scenic views of the Pacific and the existence of Russky Island, some possible outdoor activities could include hiking, island-hopping, ferry rides, or simply taking in the scenic views.","{
+  ""Relevance"": ""RELEVANT"",
+  ""Explanation"": ""The generated answer directly addresses the question by providing some possible outdoor activities that can be done in Vladivostok, Russia, considering the destination's scenic views and activities available. Although the answer does not provide an exhaustive list, it acknowledges the ambiguity in the original context and offers some relevant suggestions.""",178,"What are the most popular outdoor activities that I can do in Vladivostok, Russia?",,
+"{'id': 168, 'question': ""I'm interested in exploring the local culture. Are there any specific months that are ideal for visiting Lima?""}","Based on the context, the ideal months to visit Lima for exploring local culture are April to October, as it appears in multiple destinations entries for Lima with slightly varying end dates.","{
+  ""Relevance"": ""RELEVANT"",
+  ""Explanation"": ""The generated answer directly addresses the question by providing specific months that are ideal for visiting Lima, which is relevant to exploring the local culture.""
+}",168,I'm interested in exploring the local culture. Are there any specific months that are ideal for visiting Lima?,RELEVANT,"{'Relevance': 'RELEVANT', 'Explanation': 'The generated answer directly addresses the question by providing specific months that are ideal for visiting Lima, which is relevant to exploring the local culture.'}"
+"{'id': 203, 'question': 'What local dishes should I try while visiting Luanda?'}","While visiting Luanda, you should try the local dishes Moqueca and Calulu.","{
+  ""Relevance"": ""RELEVANT"",
+  ""Explanation"": ""The generated answer directly addresses the question, providing specific local dishes that the visitor should try while visiting Luanda.""",203,What local dishes should I try while visiting Luanda?,,
+"{'id': 175, 'question': 'How do people typically get around the city - what are the most popular transportation options available?'}","In Brasilia, Brazil, people typically get around the city using buses and taxis.","{
+  ""Relevance"": ""PARTLY_RELEVANT"",
+  ""Explanation"": ""The answer partially addresses the question by mentioning the most popular transportation options, but it only provides information about a specific city (Brasilia, Brazil), whereas the question asks about people getting around a typical city in general.""",175,How do people typically get around the city - what are the most popular transportation options available?,,
+"{'id': 130, 'question': 'What types of transportation services are available to get around the city?'}",The types of transportation services available to get around Osaka are the Metro and Trains.,"{
+  ""Relevance"": ""PARTLY_RELEVANT"",
+  ""Explanation"": ""The generated answer partially addresses the question by mentioning transportation services available in Osaka, specifically the Metro and Trains. However, the scope of the answer is limited to one city, whereas the question asks about transportation services available to get around the city in general, without specifying a particular city. A more complete answer would provide a broader range of transportation options and services, applicable to multiple cities.""",130,What types of transportation services are available to get around the city?,,
+"{'id': 157, 'question': 'What are the names of some types of food that I should look to try during my trip?'}","Based on the context that your destination is Hanoi, Vietnam, some types of food that you should look to try during your trip are Pho and Bánh Mì.","{
+  ""Relevance"": ""RELEVANT"",
+  ""Explanation"": ""The generated answer directly responds to the question by providing specific types of food that the user should try during their trip to Hanoi, Vietnam, making it relevant to the question.""",157,What are the names of some types of food that I should look to try during my trip?,,
+"{'id': 161, 'question': 'How do I acclimatize to high altitude when visiting la paz?'}","According to the travel tip for La Paz, Bolivia, to acclimatize to the high altitude, you should drink coca tea.","{
+  ""Relevance"": ""RELEVANT"",
+  ""Explanation"": ""The generated answer directly addresses the question by providing a specific advice on how to acclimatize to high altitude when visiting La Paz. The advice is related to the location and fits within the context of the question.""
+}",161,How do I acclimatize to high altitude when visiting la paz?,RELEVANT,"{'Relevance': 'RELEVANT', 'Explanation': 'The generated answer directly addresses the question by providing a specific advice on how to acclimatize to high altitude when visiting La Paz. The advice is related to the location and fits within the context of the question.'}"
+"{'id': 4, 'question': 'What local Italian dishes should I try when visiting Rome, Italy?'}","When visiting Rome, Italy, you should try local Italian dishes such as Pasta Carbonara and Gelato.","{
+  ""Relevance"": ""RELEVANT"",
+  ""Explanation"": ""The generated answer directly addresses the question by providing two examples of local Italian dishes to try in Rome, Italy, which is closely related to the topic of the question.""
+}",4,"What local Italian dishes should I try when visiting Rome, Italy?",RELEVANT,"{'Relevance': 'RELEVANT', 'Explanation': 'The generated answer directly addresses the question by providing two examples of local Italian dishes to try in Rome, Italy, which is closely related to the topic of the question.'}"
+"{'id': 4, 'question': 'What options do I have for getting around Rome, Italy during my trip?'}","According to the context, the options you have for getting around Rome, Italy during your trip are: 
+
+1. Metro 
+2. Buses 
+3. Walking","{
+  ""Relevance"": ""RELEVANT"",
+  ""Explanation"": ""The generated answer directly addresses the question, providing specific options for getting around Rome, Italy during a trip. The answer mentions the metro, buses, and walking, which are all relevant transportation methods for navigating the city.""",4,"What options do I have for getting around Rome, Italy during my trip?",,
+"{'id': 87, 'question': 'What is the best season to visit Kirov for outdoor activities?'}","The best season to visit Kirov for outdoor activities is summer, specifically from May to September.","{
+  ""Relevance"": ""RELEVANT"",
+  ""Explanation"": ""The generated answer directly addresses the question, specifying the best season to visit Kirov for outdoor activities and providing a specific time frame, making it highly relevant to the inquiry.""",87,What is the best season to visit Kirov for outdoor activities?,,
+"{'id': 167, 'question': 'How do I get around the city using public transportation in Malmo, Sweden?'}","To get around the city using public transportation in Malmo, Sweden, you have two main options: trains and buses.","{
+  ""Relevance"": ""RELEVANT"",
+  ""Explanation"": ""The generated answer directly addresses the question and provides specific information on how to get around Malmo, Sweden using public transportation, including the options of trains and buses.""
+}",167,"How do I get around the city using public transportation in Malmo, Sweden?",RELEVANT,"{'Relevance': 'RELEVANT', 'Explanation': 'The generated answer directly addresses the question and provides specific information on how to get around Malmo, Sweden using public transportation, including the options of trains and buses.'}"
+"{'id': 44, 'question': 'What are some of the top must-try dishes when visiting Naples?'}","Based on the context of Naples, some top must-try dishes when visiting Naples include:
+
+1. Pizza, specifically the classic Margherita at a local pizzeria.
+2. Pasta, as these two dishes are highlighted as the main local cuisine highlights in Naples.
+
+These dishes will provide a taste of the authentic Italian heritage and culinary tradition in Naples.","{
+  ""Relevance"": ""RELEVANT"",
+  ""Explanation"": ""The generated answer directly addresses the question by providing specific must-try dishes when visiting Naples, which is the main focus of the question. The answer highlights pizza and pasta as local cuisine highlights and provides context about the authentic Italian heritage and culinary tradition in Naples.""
+}",44,What are some of the top must-try dishes when visiting Naples?,RELEVANT,"{'Relevance': 'RELEVANT', 'Explanation': 'The generated answer directly addresses the question by providing specific must-try dishes when visiting Naples, which is the main focus of the question. The answer highlights pizza and pasta as local cuisine highlights and provides context about the authentic Italian heritage and culinary tradition in Naples.'}"
+"{'id': 189, 'question': 'What type of transportation options are commonly used to get around this city?'}","The transportation options commonly used to get around Osaka, Japan are Metro and Trains.","{
+  ""Relevance"": ""PARTLY_RELEVANT"",
+  ""Explanation"": ""The generated answer is partially relevant to the question as it mentions specific transportation options (Metro and Trains) for getting around, but the context is limited to Osaka, Japan, whereas the question simply asks for common transportation options for any city. The answer could be more relevant if it provided a broader range of transportation options that are commonly used in different cities.""",189,What type of transportation options are commonly used to get around this city?,,
+"{'id': 159, 'question': 'Do I need to speak English to navigate Brasilia, or is another language more commonly used?'}","Unfortunately, the data provided does not contain any information about Brasilia, so it's not possible to answer the question based on the given context.","{
+  ""Relevance"": ""RELEVANT"",
+  ""Explanation"": ""The generated answer addresses the given question by acknowledging the limitation of the available data, providing a clear and relevant response that explains it's unable to provide an answer due to missing information about Brasilia.""",159,"Do I need to speak English to navigate Brasilia, or is another language more commonly used?",,
+"{'id': 211, 'question': 'What type of tours are available for tourists who want to experience the culture of Buenos Aires, Argentina?'}","Two types of tours are available for tourists who want to experience the culture of Buenos Aires, Argentina. These are:
+
+1. Cultural Tours: These tours allow visitors to immerse themselves in the rich culture and vibrant life of Buenos Aires.
+2. City Tours: These tours will take tourists through the city and allow them to experience the European influence of the city.","{
+  ""Relevance"": ""RELEVANT"",
+  ""Explanation"": ""The generated answer directly addresses the question, providing specific information about the types of tours available for tourists in Buenos Aires, Argentina, which is in line with the question's focus on cultural experiences.""
+}",211,"What type of tours are available for tourists who want to experience the culture of Buenos Aires, Argentina?",RELEVANT,"{'Relevance': 'RELEVANT', 'Explanation': ""The generated answer directly addresses the question, providing specific information about the types of tours available for tourists in Buenos Aires, Argentina, which is in line with the question's focus on cultural experiences.""}"
+"{'id': 165, 'question': 'What time of year is best to visit Tbilisi if I want to avoid extreme weather?'}","According to the given travel tips and best time to visit information, the best time of year to visit Tbilisi to avoid extreme weather is either in the spring (March to June) or in the fall (September to November).","{
+  ""Relevance"": ""RELEVANT"",
+  ""Explanation"": ""The generated answer directly addresses the question about the best time of year to visit Tbilisi to avoid extreme weather, providing specific seasonal ranges. The answer is relevant to the question, providing the required information to help the user make an informed decision.""
+}",165,What time of year is best to visit Tbilisi if I want to avoid extreme weather?,RELEVANT,"{'Relevance': 'RELEVANT', 'Explanation': 'The generated answer directly addresses the question about the best time of year to visit Tbilisi to avoid extreme weather, providing specific seasonal ranges. The answer is relevant to the question, providing the required information to help the user make an informed decision.'}"
+"{'id': 170, 'question': 'What festivals can I attend during my visit from October to March?'}","Based on your visit from October to March, the festival you can attend is the Cultural Festivals in Bangalore, India.","{
+  ""Relevance"": ""PARTLY_RELEVANT"",
+  ""Explanation"": ""The generated answer partially addresses the question by mentioning a festival, but it only focuses on a specific festival in Bangalore, India, which is not within the specified date range of October to March. The question asks for festivals during the given period, but the answer is limited to a specific event that may not be taking place during that time.""",170,What festivals can I attend during my visit from October to March?,,
+"{'id': 153, 'question': 'What are some of the must-visit places to explore the arts and culture scene in Kinshasa?'}","In Kinshasa, some of the must-visit places to explore the arts and culture scene include the Kinshasa Arts Centre. Additionally, exploring local markets for crafts can provide a rich cultural experience, as they showcase the city's vibrant and bustling atmosphere.","{
+  ""Relevance"": ""RELEVANT"",
+  ""Explanation"": ""The generated answer directly addresses the question by providing specific locations and activities to explore the arts and culture scene in Kinshasa, including the Kinshasa Arts Centre and local markets.""
+}",153,What are some of the must-visit places to explore the arts and culture scene in Kinshasa?,RELEVANT,"{'Relevance': 'RELEVANT', 'Explanation': 'The generated answer directly addresses the question by providing specific locations and activities to explore the arts and culture scene in Kinshasa, including the Kinshasa Arts Centre and local markets.'}"
+"{'id': 142, 'question': 'What types of guided excursions can tourists participate in while in Maseru?'}","In Maseru, tourists can participate in guided Outdoor Activities and Cultural Tours.","{
+  ""Relevance"": ""RELEVANT"",
+  ""Explanation"": ""The generated answer mentions specific types of guided excursions (Outdoor Activities and Cultural Tours) that tourists can participate in while in Maseru, directly addressing the question and providing relevant information.""",142,What types of guided excursions can tourists participate in while in Maseru?,,
+"{'id': 95, 'question': ""What are some unique aspects of Hanoi's culture that I should be aware of before my trip?""}","Some unique aspects of Hanoi's culture that you should be aware of before your trip include:
+
+1. Rich History: Hanoi has a rich cultural heritage that is reflected in its old quarter and other historical landmarks.
+2. Street Culture: The street culture in Hanoi is vibrant and dynamic, with a lively street food scene that you should definitely experience.
+3. Traditional cuisine: Be sure to try local dishes like Pho and Bánh Mì, which are highlights of Hanoi's local cuisine.
+
+These aspects will provide a glimpse into the unique cultural landscape of Hanoi and help you appreciate your time spent in the city.","{
+  ""Relevance"": ""RELEVANT"",
+  ""Explanation"": ""The generated answer directly addresses the question by providing unique aspects of Hanoi's culture that the traveler should be aware of before their trip. The answer highlights the city's rich history, vibrant street culture, and traditional cuisine, which are all relevant to understanding and experiencing the local culture in Hanoi.""
+}",95,What are some unique aspects of Hanoi's culture that I should be aware of before my trip?,RELEVANT,"{'Relevance': 'RELEVANT', 'Explanation': ""The generated answer directly addresses the question by providing unique aspects of Hanoi's culture that the traveler should be aware of before their trip. The answer highlights the city's rich history, vibrant street culture, and traditional cuisine, which are all relevant to understanding and experiencing the local culture in Hanoi.""}"
+"{'id': 57, 'question': ""What local Colombian dishes should I try while I'm in Cartagena?""}","While you're in Cartagena, Colombia, you should try the following local Colombian dishes: Arepas and Ceviche.","{
+  ""Relevance"": ""RELEVANT"",
+  ""Explanation"": ""The generated answer directly addresses the question, providing specific local Colombian dishes to try while in Cartagena. The answer mentions Arepas and Ceviche, which are indeed local and popular dishes in Colombia.""",57,What local Colombian dishes should I try while I'm in Cartagena?,,
+"{'id': 37, 'question': 'What time of the year would be ideal to visit Manila in terms of weather?'}","Based on the provided context, the ideal time to visit Manila in terms of weather is from November to February. This is mentioned in two different entries for Manila, Philippines, under the ""best_time_to_visit"" field.","{
+  ""Relevance"": ""RELEVANT"",
+  ""Explanation"": ""The generated answer directly addresses the question about the ideal time to visit Manila in terms of weather, providing a specific time frame (November to February) that is relevant to the question.""",37,What time of the year would be ideal to visit Manila in terms of weather?,,
+"{'id': 52, 'question': 'What are some popular places I should visit when I travel to La Paz, Bolivia?'}","Based on the provided context, some popular places to visit when you travel to La Paz, Bolivia, include:
+
+1. Witches' Market (Mercado de las Brujas)
+2. Valle de la Luna (Moon Valley)
+
+Additionally, consider visiting El Alto for breathtaking views.","{
+  ""Relevance"": ""RELEVANT"",
+  ""Explanation"": ""The generated answer directly addresses the question by providing specific and relevant information about popular places to visit in La Paz, Bolivia, specifically mentioning Witches' Market, Valle de la Luna, and El Alto. The information is not only related to the question but also accurate and useful for travelers.""",52,"What are some popular places I should visit when I travel to La Paz, Bolivia?",,
+"{'id': 70, 'question': 'What are some of the main local food dishes to try in Boston for an authentic dining experience?'}","For an authentic dining experience in Boston, you should try their Clam Chowder and Lobster Roll. These dishes are considered highlights of the local cuisine.","{
+  ""Relevance"": ""RELEVANT"",
+  ""Explanation"": ""The generated answer directly addresses the question about local food dishes to try in Boston for an authentic dining experience. It provides specific recommendations for Clam Chowder and Lobster Roll, which are both relevant to the question and mentioned as highlights of the local cuisine, making the answer highly relevant to the question.""",70,What are some of the main local food dishes to try in Boston for an authentic dining experience?,,
+"{'id': 155, 'question': 'What mode of transportation should I take to move around the city?'}","Since the destination is Shanghai, China, the modes of transportation available to move around the city are: Metro, Buses, and Taxis.","{
+  ""Relevance"": ""PARTLY_RELEVANT"",
+  ""Explanation"": ""The generated answer is partially relevant to the question. It provides information about transportation modes available in the city, but it relies on a specific destination (Shanghai, China) that is not mentioned in the question. The relevance would be higher if the question explicitly mentioned the city or provided more context.""",155,What mode of transportation should I take to move around the city?,,
+"{'id': 49, 'question': 'Which popular transportation options can I use to get around the city of Dar Es Salaam?'}","The context provided does not include any information about Dar Es Salaam. It appears to provide information about Osaka, Shanghai, New York, Seoul, and Brasilia. Therefore, I am unable to provide information about the popular transportation options in Dar Es Salaam based on this context.","{
+  ""Relevance"": ""NON_RELEVANT"",
+  ""Explanation"": ""The generated answer does not provide any information about Dar Es Salaam, instead, it seems to be about other cities, Osaka, Shanghai, New York, Seoul, and Brasilia. This makes the answer completely irrelevant to the original question.""",49,Which popular transportation options can I use to get around the city of Dar Es Salaam?,,
+"{'id': 78, 'question': 'What are the most popular transportation options in Manila?'}","The most popular transportation options in Manila are Jeepneys, LRT, and Buses.","{
+  ""Relevance"": ""RELEVANT"",
+  ""Explanation"": ""The generated answer directly addresses the question and provides specific transportation options in Manila, which is relevant to the query.""
+}",78,What are the most popular transportation options in Manila?,RELEVANT,"{'Relevance': 'RELEVANT', 'Explanation': 'The generated answer directly addresses the question and provides specific transportation options in Manila, which is relevant to the query.'}"
+"{'id': 88, 'question': 'What are some popular things to do in Marrakech?'}","In Marrakech, some popular things to do include:
+
+1. Shopping in the souks for unique finds.
+2. Exploring Jemaa el-Fnaa, one of the popular attractions.
+3. Visiting the Koutoubia Mosque, another well-known attraction.
+4. Taking Cultural Tours to experience the vibrant culture and rich history.
+
+These activities can be enjoyed by using the transportation options available such as buses and taxis.","{
+  ""Relevance"": ""RELEVANT"",
+  ""Explanation"": ""The generated answer directly addresses the question by providing information on popular things to do in Marrakech, specifically mentioning attractions such as Jemaa el-Fnaa and Koutoubia Mosque, as well as shopping in the souks and taking cultural tours. The answer provides relevant and specific details that align with the question's inquiry.""",88,What are some popular things to do in Marrakech?,,
+"{'id': 131, 'question': 'What is the significance of the confluence of two rivers in the area?'}","The confluence of the Blue and White Nile rivers in Khartoum, Sudan is considered beautiful, indicating its significance as a natural attraction and notable feature in the area.","{
+  ""Relevance"": ""PARTLY_RELEVANT"",
+  ""Explanation"": ""The generated answer partially addresses the question, as it mentions the significance of a specific confluence of rivers in Khartoum, Sudan. However, it lacks a broader discussion of the general significance of river confluence in an area, and instead focuses on its beauty as a natural attraction.""",131,What is the significance of the confluence of two rivers in the area?,,
+"{'id': 166, 'question': 'What months of the year would be the best time to plan my trip to Yangon, Myanmar?'}","The best time to plan your trip to Yangon, Myanmar would be from November to February.","{
+  ""Relevance"": ""RELEVANT"",
+  ""Explanation"": ""The generated answer directly addresses the question, specifically mentioning the months of the year when it is recommended to plan a trip to Yangon, Myanmar. This answer clearly answers the question and provides relevant information.""",166,"What months of the year would be the best time to plan my trip to Yangon, Myanmar?",,
+"{'id': 140, 'question': 'What local dishes should I try when visiting Accra?'}","When visiting Accra, you should try the local dishes 'Jollof Rice', and either 'Banku' or 'Kelewele'. These dishes can be found at street vendors or street food stalls for an authentic experience.","{
+  ""Relevance"": ""RELEVANT"",
+  ""Explanation"": ""The generated answer directly addresses the question by providing specific local dishes to try when visiting Accra, and also suggests where to find them, which is highly relevant to the question""
+}",140,What local dishes should I try when visiting Accra?,RELEVANT,"{'Relevance': 'RELEVANT', 'Explanation': 'The generated answer directly addresses the question by providing specific local dishes to try when visiting Accra, and also suggests where to find them, which is highly relevant to the question'}"
+"{'id': 12, 'question': ""What unique experiences or activities are available to explore Berlin's culture?""}","Berlin offers several unique experiences and activities to explore its culture. Some of these experiences include:
+
+1. Street Art Tours: Explore the vibrant street art scene in Berlin, including the East Side Gallery, which is a must-see for art lovers.
+
+2. Historical Walks: Take a guided walk to learn about Berlin's historical significance, including the Berlin Wall memorial, which is a must-see attraction.
+
+3. Cultural Tours: Take a cultural tour to delve deeper into Berlin's history, art scene, and unique culture.
+
+4. Nightlife: Experience Berlin's lively nightlife, which offers a wide range of entertainment options.
+
+5. Bike Tours: Take a bike tour to cover more ground and explore the city's popular attractions, such as the Brandenburg Gate and Museum Island.
+
+These activities provide a glimpse into Berlin's unique culture and history, making it a fascinating destination to explore.","{
+  ""Relevance"": ""RELEVANT"",
+  ""Explanation"": ""The generated answer directly addresses the question by providing unique experiences and activities to explore Berlin's culture, including street art tours, historical walks, cultural tours, nightlife, and bike tours. The answer is highly relevant to the question and provides specific examples of what can be done to explore Berlin's culture.""
+}",12,What unique experiences or activities are available to explore Berlin's culture?,RELEVANT,"{'Relevance': 'RELEVANT', 'Explanation': ""The generated answer directly addresses the question by providing unique experiences and activities to explore Berlin's culture, including street art tours, historical walks, cultural tours, nightlife, and bike tours. The answer is highly relevant to the question and provides specific examples of what can be done to explore Berlin's culture.""}"
+"{'id': 3, 'question': 'Are there any must-try foods or desserts that are native to the local cuisine?'}","In Copenhagen, Denmark, you must try Smørrebrød, a traditional Danish dish, and Danish Pastry for a delicious dessert.","{
+""Relevance"": ""RELEVANT"",
+""Explanation"": ""The generated answer is highly relevant to the question, as it directly addresses the topic of 'must-try foods or desserts' and provides specific recommendations (Smørrebrød and Danish Pastry) that are native to the local cuisine in Copenhagen, Denmark.""",3,Are there any must-try foods or desserts that are native to the local cuisine?,,
+"{'id': 158, 'question': 'What are some popular attractions to visit in Honolulu?'}","In Honolulu, some popular attractions to visit are Diamond Head and Pearl Harbor.","{
+  ""Relevance"": ""RELEVANT"",
+  ""Explanation"": ""The generated answer provides a list of popular attractions to visit in Honolulu, directly addressing the question and providing relevant information.""",158,What are some popular attractions to visit in Honolulu?,,
+"{'id': 154, 'question': 'How can I get around the city, what are my transportation options in Vancouver?'}","In Vancouver, you have several transportation options to get around the city. You can take the SkyTrain, which is a convenient and efficient option, or use the bus system, which covers a wide area. You can also walk around, as the city is quite pedestrian-friendly.","{
+""Relevance"": ""RELEVANT"",
+""Explanation"": ""The generated answer directly addresses the question about transportation options in Vancouver, providing specific examples of ways to get around the city, including public transportation and walking.""",154,"How can I get around the city, what are my transportation options in Vancouver?",,
+"{'id': 130, 'question': 'What are some popular sites and attractions that I should visit during my trip to Havana?'}","In Havana, some popular sites and attractions you should visit include Old Havana and the Malecón. Consider taking a classic car tour around the city to see more of what it has to offer.","{
+  ""Relevance"": ""RELEVANT"",
+  ""Explanation"": ""The generated answer provides specific mention of popular sites and attractions in Havana, directly addressing the question's inquiry. The answer highlights Old Havana and the Malecón, and also offers an additional suggestion of taking a classic car tour around the city, which aligns with the question's context.""",130,What are some popular sites and attractions that I should visit during my trip to Havana?,,
+"{'id': 136, 'question': ""What types of dishes should I try when I'm trying the local cuisine of Windhoek?""}","When trying the local cuisine in Windhoek, two dishes you should try are Biltong and Potjiekos.","{
+  ""Relevance"": ""RELEVANT"",
+  ""Explanation"": ""The generated answer provides specific recommendations for dishes to try when experiencing the local cuisine in Windhoek, which directly addresses the question's inquiry.""
+}",136,What types of dishes should I try when I'm trying the local cuisine of Windhoek?,RELEVANT,"{'Relevance': 'RELEVANT', 'Explanation': ""The generated answer provides specific recommendations for dishes to try when experiencing the local cuisine in Windhoek, which directly addresses the question's inquiry.""}"
+"{'id': 100, 'question': 'What are some must-visit attractions to explore in Qaqortoq?'}",Some must-visit attractions to explore in Qaqortoq include the Qaqortoq Museum and the Icefjord.,"{
+  ""Relevance"": ""PARTLY_RELEVANT"",
+  ""Explanation"": ""The generated answer partially addresses the question by mentioning two specific attractions in Qaqortoq. However, the answer fails to provide a comprehensive or detailed list of must-visit attractions in the area, which is what the question was asking for. The inclusion of Icefjord, which is likely referring to the Ilulissat Icefjord (located in another municipality), further reduces the relevance of the answer to the original question.""",100,What are some must-visit attractions to explore in Qaqortoq?,,
+"{'id': 152, 'question': 'What languages can I expect to hear locals speaking in Helsinki?'}","In Helsinki, you can expect to hear locals speaking Finnish and Swedish.","{
+  ""Relevance"": ""RELEVANT"",
+  ""Explanation"": ""The generated answer directly answers the question by listing the languages that locals typically speak in Helsinki, which are Finnish and Swedish, making it an accurate and relevant response to the question.""",152,What languages can I expect to hear locals speaking in Helsinki?,,
+"{'id': 19, 'question': 'Can you recommend some popular places to visit in Buenos Aires?'}",There is no information about Buenos Aires in the context provided.,"{
+  ""Relevance"": ""NON_RELEVANT"",
+  ""Explanation"": ""The generated answer does not address the question at all as it does not provide any information about popular places to visit in Buenos Aires, which is what the question is asking for. Instead, it mentions that there is no information about Buenos Aires in the context provided, which does not answer the question.""",19,Can you recommend some popular places to visit in Buenos Aires?,,
+"{'id': 48, 'question': 'Are there any historic sites near the location coordinates 29.3759° N, 47.9774° E that are famous for their sunset views?'}","Based on the context, no information is provided about any historic sites near the location coordinates 29.3759° N, 47.9774° E that are famous for their sunset views, except for a general travel tip that suggests visiting during sunset for stunning views. It is mentioned that the Kuwait Towers are iconic, but there's no information on whether its sunset views are particularly notable.","{
+""Relevance"": ""PARTLY_RELEVANT"",
+""Explanation"": ""The generated answer partially addresses the question by mentioning the Kuwait Towers being iconic, which is related to the location coordinates. However, it fails to provide specific information about historic sites that are famous for their sunset views, which is the main focus of the question.""",48,"Are there any historic sites near the location coordinates 29.3759° N, 47.9774° E that are famous for their sunset views?",,
+"{'id': 69, 'question': 'What is the best time of year to visit Athens in terms of the weather?'}","The best time to visit Athens is from March to May or September to November, as it offers pleasant weather. Alternatively, you can also visit during April to June or September, which is also suitable.","{
+  ""Relevance"": ""RELEVANT"",
+  ""Explanation"": ""The generated answer directly addresses the best time of year to visit Athens in terms of the weather, providing specific timeframes (March to May and September to November) and alternative suitable periods (April to June and September) that match the question's requirements.""
+}",69,What is the best time of year to visit Athens in terms of the weather?,RELEVANT,"{'Relevance': 'RELEVANT', 'Explanation': ""The generated answer directly addresses the best time of year to visit Athens in terms of the weather, providing specific timeframes (March to May and September to November) and alternative suitable periods (April to June and September) that match the question's requirements.""}"
+"{'id': 200, 'question': 'In what months does Fortaleza have the most vibrant nightlife?'}",Between December and June.,"{
+  ""Relevance"": ""PARTLY_RELEVANT"",
+  ""Explanation"": ""The generated answer mentions specific months, but it does not directly answer the question about the 'most vibrant nightlife' in Fortaleza. It only provides a general time frame, which is not detailed enough to guarantee the 'most vibrant' nightlife. The answer is partly relevant because it does provide some information related to Fortaleza's nightlife, but it does not fully address the question.""",200,In what months does Fortaleza have the most vibrant nightlife?,,
+"{'id': 180, 'question': 'What are the top recommended activities to participate in for a memorable experience in Tbilisi?'}","Based on the provided context, the top recommended activities to participate in for a memorable experience in Tbilisi include:
+
+1. Cultural Tours: This activity allows visitors to immerse themselves in the unique traditions and scenic views of Tbilisi.
+2. Wine Tasting: Tbilisi is known for its local wine, and wine tasting is a highly recommended activity in the region.
+3. Food Experiences: Trying local cuisine such as Khinkali and Khachapuri is a must-do experience in Tbilisi.
+4. Visiting the sulfur baths: This unique experience is often mentioned in user reviews, highlighting its uniqueness.
+
+These activities will provide visitors with a memorable experience of Tbilisi's culture, traditions, and cuisine.","{
+""Relevance"": ""RELEVANT"",
+""Explanation"": ""The generated answer directly addresses the question, providing a list of top recommended activities to participate in for a memorable experience in Tbilisi. The answer is specific, relevant, and informative, matching the expectation of the question.""",180,What are the top recommended activities to participate in for a memorable experience in Tbilisi?,,
+"{'id': 133, 'question': 'What kind of meals can I expect to find in Nassau, and are there any local specialties?'}","In Nassau, the local cuisine highlights include two specialties: Conch Fritters and Bahama Mama. You can expect to find a variety of island and tropical-inspired dishes featuring fresh seafood, local produce, and spices.","{
+  ""Relevance"": ""RELEVANT"",
+  ""Explanation"": ""The generated answer directly addresses the question by providing information about the type of meals (with local specialties) that can be expected to find in Nassau, which is in line with the question's inquiry.""
+}",133,"What kind of meals can I expect to find in Nassau, and are there any local specialties?",RELEVANT,"{'Relevance': 'RELEVANT', 'Explanation': ""The generated answer directly addresses the question by providing information about the type of meals (with local specialties) that can be expected to find in Nassau, which is in line with the question's inquiry.""}"
+"{'id': 148, 'question': 'What are some local dishes I should try when I visit Asunción?'}","When you visit Asunción, you should try the following local dishes: 
+
+1. Sopa Paraguaya
+2. Asado","{
+  ""Relevance"": ""RELEVANT"",
+  ""Explanation"": ""The generated answer directly addresses the question and provides specific examples of local dishes to try in Asunción. The answer is clear and concise, providing exactly the information requested. The relevance is high as it is a direct response to the question.""",148,What are some local dishes I should try when I visit Asunción?,,
+"{'id': 68, 'question': 'What are some unique experiences I can have during my trip to Nairobi?'}","During your trip to Nairobi, you can have the following unique experiences:
+
+1. Feed and take photos with giraffes at the Giraffe Centre.
+2. Go on wildlife safaris at Nairobi National Park, preferably early in the morning for better wildlife sightings.
+3. Explore the David Sheldrick Wildlife Trust.
+4. Take a cultural tour to learn about the diverse ecosystems and rich culture of Nairobi.
+5. Try local Kenyan cuisine, including popular dishes like Ugali, Nyama Choma, and Sukuma Wiki.","{
+  ""Relevance"": ""RELEVANT"",
+  ""Explanation"": ""The generated answer provides specific and relevant information about unique experiences to have during a trip to Nairobi, including interacting with animals at the Giraffe Centre, wildlife safaris, cultural tours, and trying local cuisine. The answer directly addresses the question and provides helpful recommendations.""
+}",68,What are some unique experiences I can have during my trip to Nairobi?,RELEVANT,"{'Relevance': 'RELEVANT', 'Explanation': 'The generated answer provides specific and relevant information about unique experiences to have during a trip to Nairobi, including interacting with animals at the Giraffe Centre, wildlife safaris, cultural tours, and trying local cuisine. The answer directly addresses the question and provides helpful recommendations.'}"
+"{'id': 121, 'question': 'What are some of the unique natural features or landmarks that I should not miss when visiting Cape Town?'}","There is no information available about Cape Town in the provided context. The context only discusses destinations such as Reykjavik, Iceland, and Tbilisi, Georgia, but does not mention Cape Town.","{
+  ""Relevance"": ""NON_RELEVANT"",
+  ""Explanation"": ""The generated answer does not provide any information about Cape Town, as it refers to other destinations not relevant to the question. The answer does not mention any natural features or landmarks in Cape Town, making it non-relevant to the original question.""",121,What are some of the unique natural features or landmarks that I should not miss when visiting Cape Town?,,
+"{'id': 180, 'question': 'What are some popular cultural highlights and traditions I should know about before visiting the city?'}",New York has a diverse cultural scene with a blend of 'Diverse Cultures' and a thriving 'Art Scene'.,"{
+  ""Relevance"": ""PARTLY_RELEVANT"",
+  ""Explanation"": ""The generated answer mentions 'Diverse Cultures' and 'Art Scene', which are cultural aspects. However, it does not directly provide popular cultural highlights and traditions that one should know before visiting the city. The question is asking about specific cultural attractions and customs, whereas the generated answer is more general and lacks specific details.""",180,What are some popular cultural highlights and traditions I should know about before visiting the city?,,
+"{'id': 1, 'question': 'What are some sweet and delicious treats that I should try when visiting Paris?'}","When visiting Paris, you should try the delicious Croissants and Macarons for sweet treats.","{
+  ""Relevance"": ""RELEVANT"",
+  ""Explanation"": ""The generated answer directly addresses the question by providing specific sweet and delicious treats that one should try when visiting Paris, namely Croissants and Macarons. The answer is relevant to the question, and the information provided is relevant to the context of visiting Paris.""",1,What are some sweet and delicious treats that I should try when visiting Paris?,,
+"{'id': 159, 'question': 'What are some local dishes that I should definitely try when visiting Brasilia?'}","When visiting Brasilia, you should definitely try local dishes such as Feijoada and Pão de Queijo.","{
+  ""Relevance"": ""RELEVANT"",
+  ""Explanation"": ""The answer directly addresses the question by providing specific examples of local dishes to try when visiting Brasilia, which is the main topic of the question.""",159,What are some local dishes that I should definitely try when visiting Brasilia?,,
+"{'id': 74, 'question': 'Can I get by without speaking the local language of Māori during my trip to Auckland?'}","You can likely get by without speaking the local language of Māori during your trip to Auckland, as the other language spoken there is English.","{
+  ""Relevance"": ""PARTLY_RELEVANT"",
+  ""Explanation"": ""The generated answer partially addresses the question, but its focus is on the prevalence of English as an alternative language, rather than the necessity of speaking Māori during the trip. The relevance is partial because it indirectly answers the question, but does not directly address the need to speak Māori.""",74,Can I get by without speaking the local language of Māori during my trip to Auckland?,,
+"{'id': 84, 'question': 'What are some of the local Icelandic dishes I should try while visiting Reykjavik?'}",You should try the following local Icelandic dishes while visiting Reykjavik: Lamb Soup and Skyr.,"{
+  ""Relevance"": ""RELEVANT"",
+  ""Explanation"": ""The generated answer directly addresses the question about local Icelandic dishes to try while visiting Reykjavik, specifically mentioning Lamb Soup and Skyr, which are both traditional Icelandic dishes.""
+}",84,What are some of the local Icelandic dishes I should try while visiting Reykjavik?,RELEVANT,"{'Relevance': 'RELEVANT', 'Explanation': 'The generated answer directly addresses the question about local Icelandic dishes to try while visiting Reykjavik, specifically mentioning Lamb Soup and Skyr, which are both traditional Icelandic dishes.'}"
+"{'id': 159, 'question': 'What are the months during which Brasilia has the best weather for visiting?'}",Brasilia has the best weather for visiting during the months of May to September.,"{
+  ""Relevance"": ""RELEVANT"",
+  ""Explanation"": ""The generated answer provides specific months (May to September) in response to the question asking for the best weather for visiting Brasilia, directly addressing the query.""",159,What are the months during which Brasilia has the best weather for visiting?,,
+"{'id': 13, 'question': ""What are some of the most famous museums in Madrid that I shouldn't miss?""}","Based on the context, one of the most famous museums in Madrid that you shouldn't miss is The Prado Museum, which has incredible art collections. However, the Reina Sofia Museum and the Thyssen-Bornemisza National Museum are also part of the famous ""Golden Triangle of Art"" in Madrid and not mentioned in the context but typically known to be partnered with The Prado Museum in this area.","{
+  ""Relevance"": ""RELEVANT"",
+  ""Explanation"": ""The generated answer directly addresses the question, providing three famous museums in Madrid that the user shouldn't miss. The context is also relevant, mentioning the 'Golden Triangle of Art' and the partnership between the museums. The answer is a clear and concise response to the question, making it relevant.""",13,What are some of the most famous museums in Madrid that I shouldn't miss?,,
+"{'id': 53, 'question': 'What are some common modes of transport to get around Maputo, Mozambique?'}","Based on the context, the common modes of transport to get around Maputo, Mozambique are: 
+
+1. Buses 
+2. Taxis 
+3. Ferries","{
+  ""Relevance"": ""RELEVANT"",
+  ""Explanation"": ""The generated answer lists common modes of transport to get around Maputo, Mozambique, which directly addresses the question and provides specific transportation options, making it highly relevant to the question.""
+}",53,"What are some common modes of transport to get around Maputo, Mozambique?",RELEVANT,"{'Relevance': 'RELEVANT', 'Explanation': 'The generated answer lists common modes of transport to get around Maputo, Mozambique, which directly addresses the question and provides specific transportation options, making it highly relevant to the question.'}"

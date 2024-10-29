@@ -1,0 +1,26 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+groq = "*"
+scikit-learn = "*"
+pandas = "*"
+flask = "*"
+gunicorn = "*"
+python-dotenv = "*"
+psycopg2-binary = "*"
+pgcli = "*"
+
+[dev-packages]
+tqdm = "*"
+notebook = "==7.1.2"
+ipywidgets = "*"
+jupyter = "*"
+requests = "*"
+pgcli = "*"
+questionary = "*"
+
+[requires]
+python_version = "3.12"
